@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Bruce.Niu</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hualin.Peng</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Henry.Guo</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Torres.Zhao</field>
+    <field id="classificationForAll" type="enum:classificationForAll">system</field>
+    <field id="created">2019-01-07 11:34:31.509 +0800</field>
+    <field id="description" text-type="text/html"><![CDATA[支架可牢靠固定主机或管头，限束筒中心轴在水平方向和竖直方向旋转角度不小于270°，并应有分度值不大于10°的指示相应转角的标尺。 
+<table id="polarion_wiki macro name=table" class="polarion-Document-table" style="width: 80%;margin-left: auto;margin-right: auto;border: 1px solid #CCCCCC;empty-cells: show;">
+  <tbody>
+    <tr>
+      <th style="background-color: #F0F0F0;text-align: left;vertical-align: top;width: 273px;height: 20px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">Step Description</th>
+      <th style="background-color: #F0F0F0;text-align: left;vertical-align: top;width: 306px;height: 20px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">Expected Value</th>
+    </tr>
+    <tr>
+      <td style="width: 273px;height: 12px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">将主机或管头安装在支架上。</td>
+      <td style="width: 306px;height: 12px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">安装应牢固。</td>
+    </tr>
+    <tr>
+      <td style="width: 273px;height: 12px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">用角度仪测量线束筒中心轴上下摆动角度。</td>
+      <td style="width: 306px;height: 12px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">应不小于270°。</td>
+    </tr>
+    <tr>
+      <td style="width: 273px;height: 12px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">目视检查。</td>
+      <td style="width: 306px;height: 12px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">应有分度值不大于10°的指示相应转角的标尺。</td>
+    </tr>
+  </tbody>
+</table>]]></field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">verifies</item>
+                <item id="workItem">NOVA-601</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">33.0</field>
+    <field id="severity">basic</field>
+    <field id="status">inReview</field>
+    <field id="testSteps" type="struct:TestSteps">
+        <struct>
+            <item id="keys">
+                <list>
+                    <item>description</item>
+                    <item>expectedResult</item>
+                </list>
+            </item>
+            <item id="steps">
+                <list>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">&lt;span style="font-size: 10pt;line-height: 1.5;"&gt;将主机或管头安装在支架上。&lt;/span&gt;</item>
+                                <item text-type="text/html">&lt;span style="font-size: 10pt;line-height: 1.5;"&gt;安装应牢固。&lt;/span&gt;</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">&lt;span style="font-size: 10pt;line-height: 1.5;"&gt;用角度仪测量线束筒中心轴上下摆动角度。&lt;/span&gt;</item>
+                                <item text-type="text/html">&lt;span style="font-size: 10pt;line-height: 1.5;"&gt;应不小于270°。&lt;/span&gt;</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">&lt;span style="font-size: 10pt;line-height: 1.5;"&gt;目视检查。&lt;/span&gt;</item>
+                                <item text-type="text/html">&lt;span style="font-size: 10pt;line-height: 1.5;"&gt;应有分度值不大于10°的指示相应转角的标尺。&lt;/span&gt;</item>
+                            </list>
+                        </item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="testType" type="enum:testtype">manual</field>
+    <field id="title">支架可牢靠固定主机或管头，限束筒中心轴在水平方向和竖直方向旋转角度不小于270°，并应有分度值不大于10°的指示相应转角的标尺。</field>
+    <field id="type">testcase</field>
+</work-item>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Henry.Guo</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Derek.Li</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Victor.Liu</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Bruce.Niu</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Ya.Li</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Craff.Qiu</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">William.Zhou</item>
+            </struct>
+        </list>
+    </field>
+    <field id="assignee">Bruce.Niu</field>
+    <field id="author">Bruce.Niu</field>
+    <field id="created">2018-10-22 17:13:58.924 +0800</field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-634</item>
+            </struct>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-661</item>
+            </struct>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-673</item>
+            </struct>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-1058</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="prsSubRequirement" multi="true" type="enum:subrequirement">
+        <list>
+            <item>me</item>
+            <item>ee</item>
+        </list>
+    </field>
+    <field id="prsType" type="enum:prstype">function</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="title">2.5mA机型固定式应用，主要组成包括：主机，平衡臂，立柱，座凳，底板，曝光手闸和充电器。</field>
+    <field id="type">systemRequirement</field>
+</work-item>

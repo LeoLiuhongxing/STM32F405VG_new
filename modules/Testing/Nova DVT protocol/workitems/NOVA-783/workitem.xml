@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Bruce.Niu</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hualin.Peng</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Henry.Guo</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Torres.Zhao</field>
+    <field id="classificationForAll" type="enum:classificationForAll">system</field>
+    <field id="created">2019-01-07 11:34:28.431 +0800</field>
+    <field id="description" text-type="text/html"><![CDATA[系统应提供一个独立的曝光按钮和电源开关按键
+<table id="polarion_wiki macro name=table" class="polarion-Document-table" style="width: 80%;margin-left: auto;margin-right: auto;border: 1px solid #CCCCCC;empty-cells: show;">
+  <tbody>
+    <tr>
+      <th style="background-color: #F0F0F0;text-align: left;vertical-align: top;width: 273px;height: 20px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">Step Description</th>
+      <th style="background-color: #F0F0F0;text-align: left;vertical-align: top;width: 306px;height: 20px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">Expected Value</th>
+    </tr>
+    <tr>
+      <td style="width: 273px;height: 12px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">目视检查2.5mA机型主机。</td>
+      <td style="width: 306px;height: 12px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">应有一个曝光按钮。</td>
+    </tr>
+    <tr>
+      <td style="width: 273px;height: 12px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">目视检查2.5mA机型主机。</td>
+      <td style="width: 306px;height: 12px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">应有电源开关键。</td>
+    </tr>
+  </tbody>
+</table>]]></field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">verifies</item>
+                <item id="workItem">NOVA-730</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">33.0</field>
+    <field id="severity">basic</field>
+    <field id="status">inReview</field>
+    <field id="testSteps" type="struct:TestSteps">
+        <struct>
+            <item id="keys">
+                <list>
+                    <item>description</item>
+                    <item>expectedResult</item>
+                </list>
+            </item>
+            <item id="steps">
+                <list>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">目视检查2.5mA机型主机。</item>
+                                <item text-type="text/html">&lt;span style="font-size: 10pt;line-height: 1.5;"&gt;应有一个曝光按钮。&lt;/span&gt;</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">&lt;span style="font-size: 10pt;line-height: 1.5;"&gt;目视检查2.5mA机型主机。&lt;/span&gt;</item>
+                                <item text-type="text/html">&lt;span style="font-size: 10pt;line-height: 1.5;"&gt;应有电源开关键。&lt;/span&gt;</item>
+                            </list>
+                        </item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="testType" type="enum:testtype">manual</field>
+    <field id="title">系统应提供一个独立的曝光按钮和电源开关按键。</field>
+    <field id="type">testcase</field>
+</work-item>

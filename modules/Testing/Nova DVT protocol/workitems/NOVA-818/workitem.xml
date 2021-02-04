@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Bruce.Niu</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hualin.Peng</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Henry.Guo</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Torres.Zhao</field>
+    <field id="classificationForAll" type="enum:classificationForAll">system</field>
+    <field id="created">2019-01-07 16:48:02.689 +0800</field>
+    <field id="description" text-type="text/html"><![CDATA[工作环境：10～40℃，相对湿度：最大80%，大气压力：70kPa～106kPa。储存环境：-25~+55℃，相对湿度：最大93%。
+<table id="polarion_wiki macro name=table" class="polarion-Document-table" style="width: 80%;margin-left: auto;margin-right: auto;border: 1px solid #CCCCCC;empty-cells: show;">
+  <tbody>
+    <tr>
+      <th style="background-color: #F0F0F0;text-align: left;vertical-align: top;width: 273px;height: 20px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">Step Description</th>
+      <th style="background-color: #F0F0F0;text-align: left;vertical-align: top;width: 307px;height: 20px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">Expected Value</th>
+    </tr>
+    <tr>
+      <td style="width: 273px;height: 12px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">根据YY/T 0291-2016的要求，对产品进行环境试验。</td>
+      <td style="width: 307px;height: 12px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">N/A</td>
+    </tr>
+    <tr>
+      <td style="width: 273px;height: 58px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">在每档环境试验后，测试管电压和曝光时间的准确度，方法同6.2和6.3中管电压和曝光时间准确度的测试方法。</td>
+      <td style="width: 307px;height: 58px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">环境试验后，管电压和曝光时间的误差应不大于±10%。</td>
+    </tr>
+  </tbody>
+</table>
+ <br/>]]></field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">verifies</item>
+                <item id="workItem">NOVA-705</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">33.0</field>
+    <field id="severity">basic</field>
+    <field id="status">inReview</field>
+    <field id="testSteps" type="struct:TestSteps">
+        <struct>
+            <item id="keys">
+                <list>
+                    <item>description</item>
+                    <item>expectedResult</item>
+                </list>
+            </item>
+            <item id="steps">
+                <list>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">&lt;span style="font-size: 10pt;line-height: 1.5;"&gt;根据YY/T 0291-2016的要求，对产品进行环境试验。在每档环境试验后，测试管电压和曝光时间的准确度。&lt;/span&gt;</item>
+                                <item text-type="text/html"> &lt;span style="font-size: 10pt;line-height: 1.5;"&gt;环境试验后，管电压不大于&lt;span style="font-weight: normal;font-style: normal;text-decoration: none;font-family: Arial, Helvetica, sans-serif;color: #000000;background-color: #FFFFFF;"&gt;±10%&lt;/span&gt;和曝光时间的误差应&lt;span style="font-weight: normal;font-style: normal;text-decoration: none;font-family: Arial, Helvetica, sans-serif;color: #000000;"&gt;误差应为±5%或±20ms，取较大者&lt;/span&gt;。&lt;/span&gt;</item>
+                            </list>
+                        </item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="testType" type="enum:testtype">manual</field>
+    <field id="type">testcase</field>
+</work-item>

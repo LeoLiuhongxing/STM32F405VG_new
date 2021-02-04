@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hualin.Peng</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Leo.Liu</field>
+    <field id="created">2019-12-18 10:45:45.794 +0800</field>
+    <field id="description" text-type="text/html"><![CDATA[系统针对每一组合（成人/儿童，数字/模拟，牙位）都有推荐的参数；<br/>
+<div style="text-align: center;">
+  
+  <table style="width: 325pt;border-collapse: collapse;">
+    <tbody>
+      <tr>
+        <td style="vertical-align: bottom;width: 71pt;height: 36.95pt;padding: 0cm 5.4pt;"></td>
+        <td style="vertical-align: bottom;width: 54pt;height: 36.95pt;padding: 0cm 5.4pt;"></td>
+        <td style="width: 54pt;height: 36.95pt;border: 1pt solid windowtext;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 
+          <div style="text-align: center;">
+            <span style="color: #000000;">前牙/切牙</span>
+          </div>
+          </td>
+        <td style="width: 92pt;height: 36.95pt;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+          <div style="text-align: center;">
+            <span style="color: #000000;">后牙/尖牙、磨牙</span>
+          </div>
+          </td>
+        <td style="width: 54pt;height: 36.95pt;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+          <div style="text-align: center;">
+            <span style="color: #000000;">咬翼、咬合</span>
+          </div>
+          </td>
+      </tr>
+      <tr>
+        <td rowspan="2" style="width: 71pt;height: 14.25pt;border: 1pt solid windowtext;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> <span style="color: #000000;">数字传感器</span><br/>
+          </td>
+        <td style="vertical-align: bottom;width: 54pt;height: 14.25pt;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: none;border-left: none;padding: 0cm 5.4pt;"> <span style="color: #000000;">成人</span><br/>
+          </td>
+        <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 
+          <div style="text-align: center;">
+            <span style="color: #000000;">0.125</span>
+          </div>
+          </td>
+        <td style="width: 92pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+          <div style="text-align: center;">
+            <span style="color: #000000;">0.160 </span>
+          </div>
+          </td>
+        <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+          <div style="text-align: center;">
+            <span style="color: #000000;">0.160 </span>
+          </div>
+          </td>
+      </tr>
+      <tr>
+        <td style="vertical-align: bottom;width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: none;border-left: none;padding: 0cm 5.4pt;"> <span style="color: #000000;">儿童</span><br/>
+          </td>
+        <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 
+          <div style="text-align: center;">
+            <span style="color: #000000;">0.100 </span>
+          </div>
+          </td>
+        <td style="width: 92pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+          <div style="text-align: center;">
+            <span style="color: #000000;">0.125 </span>
+          </div>
+          </td>
+        <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+          <div style="text-align: center;">
+            <span style="color: #000000;">0.125 </span>
+          </div>
+          </td>
+      </tr>
+      <tr>
+        <td rowspan="2" style="width: 71pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> <span style="color: #000000;">胶片</span><br/>
+          </td>
+        <td style="vertical-align: bottom;width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: none;border-left: none;padding: 0cm 5.4pt;"> <span style="color: #000000;">成人</span><br/>
+          </td>
+        <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 
+          <div style="text-align: center;">
+            <span style="color: #000000;">0.320 </span>
+          </div>
+          </td>
+        <td style="width: 92pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+          <div style="text-align: center;">
+            <span style="color: #000000;">0.400 </span>
+          </div>
+          </td>
+        <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+          <div style="text-align: center;">
+            <span style="color: #000000;">0.400 </span>
+          </div>
+          </td>
+      </tr>
+      <tr>
+        <td style="vertical-align: bottom;width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: none;border-left: none;padding: 0cm 5.4pt;"> <span style="color: #000000;">儿童</span><br/>
+          </td>
+        <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 
+          <div style="text-align: center;">
+            <span style="color: #000000;">0.160 </span>
+          </div>
+          </td>
+        <td style="width: 92pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+          <div style="text-align: center;">
+            <span style="color: #000000;">0.320 </span>
+          </div>
+          </td>
+        <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+          <div style="text-align: center;">
+            <span style="color: #000000;">0.320 </span>
+          </div>
+          </td>
+      </tr>
+      <tr>
+        <td rowspan="2" style="width: 71pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> <span style="color: #000000;">影像板</span><br/>
+          </td>
+        <td style="vertical-align: bottom;width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: none;border-left: none;padding: 0cm 5.4pt;"> <span style="color: #000000;">成人</span><br/>
+          </td>
+        <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 
+          <div style="text-align: center;">
+            <span style="color: #000000;">0.160 </span>
+          </div>
+          </td>
+        <td style="width: 92pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+          <div style="text-align: center;">
+            <span style="color: #000000;">0.200 </span>
+          </div>
+          </td>
+        <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+          <div style="text-align: center;">
+            <span style="color: #000000;">0.200 </span>
+          </div>
+          </td>
+      </tr>
+      <tr>
+        <td style="vertical-align: bottom;width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: none;border-left: none;padding: 0cm 5.4pt;"> <span style="color: #000000;">儿童</span><br/>
+          </td>
+        <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 
+          <div style="text-align: center;">
+            <span style="color: #000000;">0.100 </span>
+          </div>
+          </td>
+        <td style="width: 92pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+          <div style="text-align: center;">
+            <span style="color: #000000;">0.160 </span>
+          </div>
+          </td>
+        <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+          <div style="text-align: center;">
+            <span style="color: #000000;">0.160 </span>
+          </div>
+          </td>
+      </tr>
+    </tbody>
+  </table>
+  
+</div>
+<br/>
+ <span style="color: #FF0000;"> </span><br/>
+缺省的推荐参数可以被重新设定 
+<ul>
+  <li>选定成人/儿童，数字/模拟，牙位，通过曝光时间调节按键调整到合适的值。</li>
+  <li>按住相应的牙位选择按键2秒，蜂鸣器响两次后，设置成功。</li>
+</ul>]]></field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-727</item>
+            </struct>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-726</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="type">softwareRequirement</field>
+</work-item>

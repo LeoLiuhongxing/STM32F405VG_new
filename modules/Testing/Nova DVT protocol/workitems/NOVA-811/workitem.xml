@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Bruce.Niu</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hualin.Peng</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Henry.Guo</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Torres.Zhao</field>
+    <field id="classificationForAll" type="enum:classificationForAll">system</field>
+    <field id="created">2019-01-07 16:48:00.322 +0800</field>
+    <field id="description" text-type="text/html"><![CDATA[管电流：2.5 mA，±20% 
+<table id="polarion_wiki macro name=table" class="polarion-Document-table" style="width: 80%;margin-left: auto;margin-right: auto;border: 1px solid #CCCCCC;empty-cells: show;">
+  <tbody>
+    <tr>
+      <th style="background-color: #F0F0F0;text-align: left;vertical-align: top;width: 273px;height: 20px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">Step Description</th>
+      <th style="background-color: #F0F0F0;text-align: left;vertical-align: top;width: 306px;height: 20px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">Expected Value</th>
+    </tr>
+    <tr>
+      <td style="width: 273px;height: 12px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">将示波器的探头连接在管电流的采样点上。</td>
+      <td style="width: 306px;height: 12px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">N/A</td>
+    </tr>
+    <tr>
+      <td style="width: 273px;height: 12px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">将探测器的探头贴在线束筒中心，分别设置曝光时间为<span style="font-size: 10pt;line-height: 1.5;">0.1s，0.125s，0.5s，1s，1.25s，1.6s和2s</span>，测量管电流的准确度。</td>
+      <td style="width: 306px;height: 12px;border: 1px solid #CCCCCC;border-top: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;padding: 5px;">管电流的误差应不大于±10%</td>
+    </tr>
+  </tbody>
+</table>]]></field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">verifies</item>
+                <item id="workItem">NOVA-707</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">33.0</field>
+    <field id="severity">basic</field>
+    <field id="status">inReview</field>
+    <field id="testSteps" type="struct:TestSteps">
+        <struct>
+            <item id="keys">
+                <list>
+                    <item>description</item>
+                    <item>expectedResult</item>
+                </list>
+            </item>
+            <item id="steps">
+                <list>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">&lt;span style="font-size: 10pt;line-height: 1.5;"&gt;将示波器的探头连接在管电流的采样点上。&lt;/span&gt;</item>
+                                <item text-type="text/html">应能正确连接。</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">&lt;span style="font-size: 10pt;line-height: 1.5;"&gt;将探测器的探头贴在线束筒中心，分别设置曝光时间为0.1s，0.125s，0.5s，1s，1.25s，1.6s和2s ，测量管电流的准确度。&lt;/span&gt;</item>
+                                <item text-type="text/html">&lt;span style="font-size: 10pt;line-height: 1.5;"&gt;管电流的误差应不大于±20%。&lt;/span&gt;</item>
+                            </list>
+                        </item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="testType" type="enum:testtype">manual</field>
+    <field id="title">管电流：2.5 mA，±20%</field>
+    <field id="type">testcase</field>
+</work-item>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Bruce.Niu</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Qingchun.Zhong</field>
+    <field id="created">2020-04-13 10:16:52.768 +0800</field>
+    <field id="description" text-type="text/html"><![CDATA[<table>
+  <tbody>
+    <tr>
+      <td colspan="2" style="width: 460.6pt;height: 16.85pt;border: 1pt solid windowtext;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> [FWR 000022]<br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="width: 118.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 需求优先级 / Priority<br/>
+        </td>
+      <td style="width: 341.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> <span style="font-size: 8pt;line-height: 1.5;"> 高</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="width: 118.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> <span style="font-size: 12pt;line-height: 1.5;">来源 / Source field </span><br/>
+        </td>
+      <td style="width: 341.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> <span style="font-size: 12pt;line-height: 1.5;"> Nova-724 恢复出厂设置参数初始化</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="width: 460.6pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 需求描述 / Description:恢复出厂设置参数<span style="font-size: 12pt;line-height: 1.5;"><br/>
+           1.恢复出厂设置的参数列表：</span><br/>
+        
+        <div style="text-align: left;margin-left: 36pt;">
+          <span style="font-size: 12pt;line-height: 1.5;">1）<span style="font-weight: normal;font-style: normal;font-size: 8pt;font-family: &#39;Times New Roman&#39;, Times, serif;line-height: 1.5;">          </span>牙位：左上角的尖牙</span>
+        </div>
+        
+        <div style="text-align: left;margin-left: 36pt;">
+          <span style="font-size: 12pt;line-height: 1.5;">2）<span style="font-weight: normal;font-style: normal;font-size: 8pt;font-family: &#39;Times New Roman&#39;, Times, serif;line-height: 1.5;">          </span>休眠时长：2分钟</span>
+        </div>
+        
+        <div style="text-align: left;margin-left: 36pt;">
+          <span style="font-size: 12pt;line-height: 1.5;">3）<span style="font-weight: normal;font-style: normal;font-size: 8pt;font-family: &#39;Times New Roman&#39;, Times, serif;line-height: 1.5;">          </span>成人模式</span>
+        </div>
+        
+        <div style="text-align: left;margin-left: 36pt;">
+          <span style="font-size: 12pt;line-height: 1.5;">4）<span style="font-weight: normal;font-style: normal;font-size: 8pt;font-family: &#39;Times New Roman&#39;, Times, serif;line-height: 1.5;">          </span>数字模式：牙片宝</span>
+        </div>
+         <br/>
+        </td>
+    </tr>
+  </tbody>
+</table>]]></field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">major</field>
+    <field id="status">approved</field>
+    <field id="type">softwareRequirement</field>
+</work-item>

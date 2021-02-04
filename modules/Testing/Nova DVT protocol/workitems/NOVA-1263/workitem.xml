@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="author">Hualin.Peng</field>
+    <field id="classificationForAll" type="enum:classificationForAll">system</field>
+    <field id="created">2020-03-13 10:24:13.509 +0800</field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">verifies</item>
+                <item id="workItem">NOVA-1251</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">90.0</field>
+    <field id="severity">basic</field>
+    <field id="status">draft</field>
+    <field id="testSteps" type="struct:TestSteps">
+        <struct>
+            <item id="keys">
+                <list>
+                    <item>description</item>
+                    <item>expectedResult</item>
+                </list>
+            </item>
+            <item id="steps">
+                <list>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">查看随机文件</item>
+                                <item text-type="text/html">&lt;span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;background-color: #FFFFFF;line-height: 1.5;"&gt;系统应提供清洁和消毒的方法，并在随机文件中说明&lt;/span&gt;</item>
+                            </list>
+                        </item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="testType" type="enum:testtype">manual</field>
+    <field id="title">系统应提供清洁和消毒的方法，并在随机文件中说明</field>
+    <field id="type">testcase</field>
+</work-item>

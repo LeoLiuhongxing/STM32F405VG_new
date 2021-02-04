@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Bruce.Niu</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Qingchun.Zhong</field>
+    <field id="created">2020-03-18 10:05:19.428 +0800</field>
+    <field id="description" text-type="text/html">&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="width: 460.6pt;height: 16.85pt;border: 1pt solid windowtext;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;" colspan="2"&gt;[FWR 000019]&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="width: 118.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"&gt;需求优先级 / Priority&lt;br/&gt;&lt;/td&gt;&lt;td style="width: 341.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"&gt;&lt;span style="font-size: 8pt;line-height: 1.5;"&gt; 高&lt;/span&gt;&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="width: 118.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"&gt;&lt;span style="font-size: 12pt;line-height: 1.5;"&gt;来源 / Source field &lt;/span&gt;&lt;br/&gt;&lt;/td&gt;&lt;td style="width: 341.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"&gt;&lt;span style="font-size: 12pt;line-height: 1.5;"&gt; Nova-706 曝光时间设置（NOVA-T）&lt;/span&gt;&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="width: 460.6pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;" colspan="2"&gt;需求描述&lt;br/&gt; &lt;div style="text-align: left;margin-left: 18pt;"&gt;1.&lt;span style="font-weight: normal;font-style: normal;font-size: 8pt;font-family: 'Times New Roman', Times, serif;line-height: 1.5;"&gt;     &lt;/span&gt; 曝光时间范围是符合R’20的0.100s~2.00s的值&lt;/div&gt;&lt;div style="text-align: left;margin-left: 18pt;"&gt;2.&lt;span style="font-weight: normal;font-style: normal;font-size: 8pt;font-family: 'Times New Roman', Times, serif;line-height: 1.5;"&gt;     &lt;/span&gt; 取值范围：&lt;/div&gt;&lt;div style="text-align: left;margin-left: 18pt;"&gt;0.100s,0.110,0.125s,0.140,0.160s,0.180,&lt;/div&gt;&lt;div style="text-align: left;margin-left: 18pt;"&gt;0.200s,0.220,0.250s,0.280,0.320s,0.360,&lt;/div&gt;&lt;div style="text-align: left;margin-left: 18pt;"&gt;0.400s,0.450,0.500s,0.630s,0.710,0.800s,&lt;/div&gt;&lt;div style="text-align: left;margin-left: 18pt;"&gt;0.900,1.000s,1.100,1.250,1.400,1.600s,1.800,2.000s&lt;/div&gt;&lt;div style="text-align: left;margin-left: 18pt;"&gt;3.&lt;span style="font-weight: normal;font-style: normal;font-size: 8pt;font-family: 'Times New Roman', Times, serif;line-height: 1.5;"&gt;     &lt;/span&gt; 曝光时间通过上下键调节，步长必须符合上述取值范围；&lt;/div&gt;&lt;div style="text-align: left;margin-left: 18pt;"&gt;4.&lt;span style="font-weight: normal;font-style: normal;font-size: 8pt;font-family: 'Times New Roman', Times, serif;line-height: 1.5;"&gt;     &lt;/span&gt; 误差±5%或±20ms，取较大者&lt;/div&gt; &lt;br/&gt;  &lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">major</field>
+    <field id="status">approved</field>
+    <field id="type">softwareRequirement</field>
+</work-item>

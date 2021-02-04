@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="author">Hualin.Peng</field>
+    <field id="classificationForAll" type="enum:classificationForAll">system</field>
+    <field id="created">2020-03-12 14:09:03.136 +0800</field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">verifies</item>
+                <item id="workItem">NOVA-695</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">90.0</field>
+    <field id="severity">basic</field>
+    <field id="status">draft</field>
+    <field id="testSteps" type="struct:TestSteps">
+        <struct>
+            <item id="keys">
+                <list>
+                    <item>description</item>
+                    <item>expectedResult</item>
+                </list>
+            </item>
+            <item id="steps">
+                <list>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">查看符合性清单条目</item>
+                                <item text-type="text/html">所有符合性的条目全部通过。具体见附件</item>
+                            </list>
+                        </item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="testType" type="enum:testtype">manual</field>
+    <field id="title">满足《标准和法规符合性清单》中GB9706.1, GB9706.3, GB9706.11, GB9706.12, GB9706.14标准中的适用条款</field>
+    <field id="type">testcase</field>
+</work-item>

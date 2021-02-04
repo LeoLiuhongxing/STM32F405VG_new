@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module>
+    <field id="assignee1" type="enum:@user[project_assignable]">Hualin.Peng</field>
+    <field id="author">Hualin.Peng</field>
+    <field id="created">2019-11-29 08:55:16.663 +0800</field>
+    <field id="headingSidebarFields">severity,status</field>
+    <field id="homePageContent" text-type="text/html"><![CDATA[<h1 id="polarion_wiki macro name=module-workitem;params=id=NOVA-925"></h1><table id="polarion_1" style="width: 482pt;margin-right: 0px;border: medium;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td style="background-color: #D9D9D9;width: 127.6pt;height: 36pt;border: 1.33px solid #000000;border-top: 1.33px solid #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 1.33px solid #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">文件编号</span><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">&amp;</span><span style="font-size: 11pt;line-height: 1.5;">版本</span><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Document No &amp; Ver.</span><br/>
+        </td>
+      <td style="width: 354.4pt;height: 36pt;border-top: 1.33px solid #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 9pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"><br/>
+          VVF-RND015-011 &amp; Ver.A</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="background-color: #D9D9D9;width: 127.6pt;height: 36pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 1.33px solid #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">项目名称</span><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">/</span><span style="font-size: 11pt;line-height: 1.5;">变更编号</span><br/>
+        <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Project Name / CR No.</span><br/>
+        </td>
+      <td style="width: 354.4pt;height: 36pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 10pt;line-height: 1.5;"><br/>
+          Nova</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="background-color: #D9D9D9;width: 127.6pt;height: 36pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 1.33px solid #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">产品名称</span><br/>
+        <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Product Name</span><br/>
+        </td>
+      <td style="width: 354.4pt;height: 36pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;"><br/>
+          牙科X射线机</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="background-color: #D9D9D9;width: 127.6pt;height: 36pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 1.33px solid #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">说明</span><br/>
+        <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Description</span><br/>
+        </td>
+      <td style="width: 354.4pt;height: 36pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 12pt;line-height: 1.5;">该文档为验证 Nova牙科X射线机的设计满足用户界面需求规范的测试方案。</span><br/>
+        </td>
+    </tr>
+  </tbody>
+</table><p id="polarion_2" style="margin-left: 0px;">
+  <span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"> </span>
+</p><p id="polarion_3" style="margin-left: 0px;">
+  <span style="font-size: 11pt;line-height: 1.5;">批准列表</span><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Approval List</span><span style="font-size: 11pt;line-height: 1.5;">：</span>
+</p><table id="polarion_4" style="width: 482pt;margin-right: 0px;border: medium;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td style="background-color: #D9D9D9;width: 92.15pt;height: 33.75pt;border: 1.33px solid #000000;border-top: 1.33px solid #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 1.33px solid #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">批准</span><br/>
+        <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Approval</span><br/>
+        </td>
+      <td style="background-color: #D9D9D9;width: 106.35pt;height: 33.75pt;border-top: 1.33px solid #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">职能</span><br/>
+        <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Function</span><br/>
+        </td>
+      <td style="background-color: #D9D9D9;width: 99.2pt;height: 33.75pt;border-top: 1.33px solid #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">名称</span><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">(</span><span style="font-size: 11pt;line-height: 1.5;">打印</span><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">)</span><br/>
+        <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Name (Print)</span><br/>
+        </td>
+      <td style="background-color: #D9D9D9;width: 89.8pt;height: 33.75pt;border-top: 1.33px solid #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">签名</span><br/>
+        <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Signature</span><br/>
+        </td>
+      <td style="background-color: #D9D9D9;width: 94.5pt;height: 33.75pt;border-top: 1.33px solid #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">日期</span><br/>
+        <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Date</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="background-color: #D9D9D9;width: 92.15pt;height: 33.75pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 1.33px solid #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">起草人</span><br/>
+        <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Prepared by</span><br/>
+        </td>
+      <td style="width: 106.35pt;height: 33.75pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-style: italic;font-size: 11pt;line-height: 1.5;">验证与确认工程师</span><span style="font-style: italic;font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">V&amp;V/</span><span style="font-style: italic;font-size: 11pt;line-height: 1.5;">设计工程师</span><span style="font-style: italic;font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Design Engineering</span><br/>
+        </td>
+      <td style="width: 99.2pt;height: 33.75pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">彭华林</span><br/>
+        </td>
+      <td style="width: 89.8pt;height: 33.75pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"> </span><br/>
+        </td>
+      <td style="width: 94.5pt;height: 33.75pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"> </span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="background-color: #D9D9D9;width: 92.15pt;height: 33.75pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 1.33px solid #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">审核人</span><br/>
+        <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Reviewed by</span><br/>
+        </td>
+      <td style="width: 106.35pt;height: 33.75pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-style: italic;font-size: 11pt;line-height: 1.5;">验证与确认经理</span><br/>
+        <span style="font-style: italic;font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">V&amp;V Manager</span><br/>
+        </td>
+      <td style="width: 99.2pt;height: 33.75pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">郭宏亮</span><br/>
+        </td>
+      <td style="width: 89.8pt;height: 33.75pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"> </span><br/>
+        </td>
+      <td style="width: 94.5pt;height: 33.75pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"> </span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="background-color: #D9D9D9;width: 92.15pt;height: 33.05pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 1.33px solid #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">审核人</span><br/>
+        <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Reviewed by</span><br/>
+        </td>
+      <td style="width: 106.35pt;height: 33.05pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-style: italic;font-size: 11pt;line-height: 1.5;">主管系统工程师</span><br/>
+        <span style="font-style: italic;font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Lead System Engineer</span><br/>
+        </td>
+      <td style="width: 99.2pt;height: 33.05pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">牛波</span><br/>
+        </td>
+      <td style="width: 89.8pt;height: 33.05pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"> </span><br/>
+        </td>
+      <td style="width: 94.5pt;height: 33.05pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"> </span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="background-color: #D9D9D9;vertical-align: top;width: 92.15pt;height: 33.75pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 1.33px solid #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">审核人</span><br/>
+        <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Reviewed by</span><br/>
+        </td>
+      <td style="width: 106.35pt;height: 33.75pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-style: italic;font-size: 11pt;line-height: 1.5;">设计保证</span><br/>
+        <span style="font-style: italic;font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Design Assurence</span><br/>
+        </td>
+      <td style="width: 99.2pt;height: 33.75pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">陈永林</span><br/>
+        </td>
+      <td style="width: 89.8pt;height: 33.75pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"> </span><br/>
+        </td>
+      <td style="width: 94.5pt;height: 33.75pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"> </span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="background-color: #D9D9D9;width: 92.15pt;height: 33.75pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 1.33px solid #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">批准人</span><br/>
+        <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Approved by</span><br/>
+        </td>
+      <td style="width: 106.35pt;height: 33.75pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-style: italic;font-size: 11pt;line-height: 1.5;">工程负责人</span><br/>
+        <span style="font-style: italic;font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Engineering Head</span><br/>
+        </td>
+      <td style="width: 99.2pt;height: 33.75pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">叶汉江</span><br/>
+        </td>
+      <td style="width: 89.8pt;height: 33.75pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"> </span><br/>
+        </td>
+      <td style="width: 94.5pt;height: 33.75pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"> </span><br/>
+        </td>
+    </tr>
+  </tbody>
+</table><p id="polarion_5" style="margin-left: 0px;">
+  <span style="font-style: italic;font-size: 11pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;"> </span>
+</p><p id="polarion_6" style="margin-left: 0px;">
+  <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">        </span>
+</p><p id="polarion_7" style="margin-left: 0px;">
+  <span style="font-size: 11pt;line-height: 1.5;">更改历史记录</span><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Change History</span><span style="font-size: 11pt;line-height: 1.5;">：</span>
+</p><table id="polarion_8" style="width: 645px;margin-right: 0px;border: medium;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td style="background-color: #D9D9D9;width: 92.15pt;border: 1.33px solid #000000;border-top: 1.33px solid #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 1.33px solid #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">版本</span><br/>
+        <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Revision</span><br/>
+        </td>
+      <td style="background-color: #D9D9D9;width: 188px;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">更改描述</span><br/>
+        <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Change Description</span><br/>
+        </td>
+      <td style="background-color: #D9D9D9;width: 126px;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">起草人</span><br/>
+        <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Prepared by</span><br/>
+        </td>
+      <td style="background-color: #D9D9D9;width: 127px;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">修订日期</span><br/>
+        <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Change Date</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align: left;width: 92.15pt;height: 21.9pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 1.33px solid #000000;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">A</span> <br/>
+        </td>
+      <td style="width: 188px;height: 21.9pt;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">初始版本</span><br/>
+        </td>
+      <td style="width: 126px;height: 21.9pt;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">彭华林</span><br/>
+        </td>
+      <td style="width: 127px;height: 21.9pt;padding: 0cm 5.4pt;"> <br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="width: 92.15pt;height: 21.9pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 1.33px solid #000000;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;margin-left: 0px;"> </div>
+        </td>
+      <td style="width: 188px;height: 21.9pt;padding: 0cm 5.4pt;"> <br/>
+        </td>
+      <td style="width: 126px;height: 21.9pt;padding: 0cm 5.4pt;"> <br/>
+        </td>
+      <td style="width: 127px;height: 21.9pt;padding: 0cm 5.4pt;"> <br/>
+        </td>
+    </tr>
+  </tbody>
+</table><div id="polarion_wiki macro name=page_break;params=uid=1" contentEditable="false"></div><p id="polarion_9" style="margin-left: 0px;">
+  <span style="font-family: Arial, Helvetica, sans-serif;"> </span>
+</p><p id="polarion_11" style="margin-left: 0px;text-align: center;">
+  <span style="font-weight: bold;font-size: 12pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">TABLE OF CONTENTS</span>
+</p><p id="polarion_12">
+  <span style="font-size: 10pt;font-family: &#39;Times New Roman&#39;, Times, serif;line-height: 1.5;"> </span>
+</p><p id="polarion_13" style="margin-left: 0px;text-align: center;">
+  <span style="font-weight: bold;font-size: 12pt;line-height: 1.5;">目录</span>
+</p><div id="polarion_wiki macro name=toc"></div><p id="polarion_14">
+  <span style="font-size: 10pt;font-family: &#39;Times New Roman&#39;, Times, serif;line-height: 1.5;"> <span style="font-weight: bold;font-size: 12pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">               </span><br/>
+    <br/>
+    </span>
+</p><p id="polarion_15">
+  <span style="font-size: 10pt;font-family: &#39;Times New Roman&#39;, Times, serif;line-height: 1.5;"> </span>
+</p><div id="polarion_wiki macro name=page_break;params=uid=16" contentEditable="false"></div><p id="polarion_27">
+  <span style="font-size: 10pt;font-family: &#39;Times New Roman&#39;, Times, serif;line-height: 1.5;"> </span>
+</p><h2 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1009"></h2><p id="polarion_28">
+  <span style="font-size: 10pt;font-family: &#39;Times New Roman&#39;, Times, serif;line-height: 1.5;"><br/>
+    <span style="font-weight: bold;font-style: italic;font-size: 12pt;line-height: 1.5;"> </span> </span><span style="font-weight: bold;font-size: 12pt;line-height: 1.5;">测试目的：</span><span style="font-size: 12pt;line-height: 1.5;">该测试验证Nova牙科X射线机的设计满足用户界面需求规范的要求。本文档是执行UIS测试的依据。所设计的测试用例用于验证</span><span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 12pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">Nova牙科X射线机</span><span style="font-size: 12pt;line-height: 1.5;">产品需求中的内容是否全部正确的得到实现。</span>
+</p><p id="polarion_18">
+  <span style="font-size: 10pt;font-family: &#39;Times New Roman&#39;, Times, serif;line-height: 1.5;"> </span><span style="font-size: 12pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"><span style="font-weight: bold;font-style: italic;"> </span><span style="font-weight: bold;">测试范围：</span>本测试报告仅适用于在Nova项目中牙科X射线机样机设计验证测试。</span><span style="font-size: 10pt;font-family: &#39;Times New Roman&#39;, Times, serif;line-height: 1.5;"> </span>
+</p><h2 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1006"></h2><p id="polarion_29">
+  <span style="font-size: 12pt;font-family: &#39;Times New Roman&#39;, Times, serif;line-height: 1.5;"><span style="text-decoration: underline;"><span style="background-color: #FFFF66;">2019.01.14～2019.01.18</span> </span>  彭华林</span><span style="font-size: 10pt;font-family: &#39;Times New Roman&#39;, Times, serif;line-height: 1.5;"><br/>
+    </span>
+</p><h2 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1005"></h2><table id="polarion_21" style="margin-right: 0px;border: medium;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top;width: 220.8pt;border: 1.33px solid #000000;border-top: 1.33px solid #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 1.33px solid #000000;padding: 0cm 5.4pt;"> <span style="font-weight: bold;font-size: 12pt;background-color: #D9D9D9;line-height: 1.5;">Document Name文档名</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 247.45pt;border-top: 1.33px solid #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-weight: bold;font-size: 12pt;background-color: #D9D9D9;line-height: 1.5;">Document No. 文档编号</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="background-color: #FFFFFF;vertical-align: top;width: 220.8pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 1.33px solid #000000;padding: 0cm 5.4pt;"> <span style="font-size: 12pt;color: #000000;line-height: 1.5;">Nova牙科X射线机用户界面需求规范</span><br/>
+        </td>
+      <td style="background-color: #FFFFFF;vertical-align: top;width: 247.45pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <br/>
+        <span style="font-size: 10pt;font-family: &#39;Times New Roman&#39;, Times, serif;line-height: 1.5;"> </span></td>
+    </tr>
+  </tbody>
+</table><h2 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1008"></h2><p id="polarion_30">
+  <span style="font-size: 12pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">所有的测试用例需要在<span style="font-weight: normal;font-style: normal;text-decoration: none;color: #000000;">Nova牙科X射线机</span>上执行，所有测试用例必须执行并且结果显示为通过。<br/>
+    对于测试结果显示为失败的项，如果评估其在可接受范围内，则可认定为测试通过。对不可 </span>
+</p><p id="polarion_10">
+  <span style="font-size: 12pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">接受的失败项需记录、跟踪</span><span style="font-size: 12pt;font-family: &#39;Times New Roman&#39;, Times, serif;line-height: 1.5;">。</span>
+</p><h2 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1007"></h2><table id="polarion_24" style="margin-right: 0px;border: medium;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td style="background-color: #D9D9D9;vertical-align: top;width: 35.45pt;border: 1.33px solid #000000;border-top: 1.33px solid #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 1.33px solid #000000;padding: 0cm 5.4pt;"> <span style="font-weight: bold;font-size: 12pt;line-height: 1.5;">No</span><br/>
+        </td>
+      <td style="background-color: #D9D9D9;vertical-align: top;width: 127.6pt;border-top: 1.33px solid #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-weight: bold;font-size: 12pt;line-height: 1.5;">测试设备编号</span><span style="font-size: 12pt;line-height: 1.5;"><br/>
+          <span style="font-weight: bold;">Testing Equirement No.</span></span><br/>
+        </td>
+      <td style="background-color: #D9D9D9;vertical-align: top;width: 120.5pt;border-top: 1.33px solid #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-weight: bold;font-size: 12pt;line-height: 1.5;">测试设备名称</span><span style="font-size: 12pt;line-height: 1.5;"><br/>
+          </span><span style="font-weight: bold;font-size: 12pt;color: #000000;line-height: 1.5;">Testing Equirement Name</span><br/>
+        </td>
+      <td style="background-color: #D9D9D9;vertical-align: top;width: 120.45pt;border-top: 1.33px solid #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-weight: bold;font-size: 12pt;color: #000000;line-height: 1.5;">测试设备型号</span><span style="font-size: 12pt;line-height: 1.5;"><br/>
+          </span><span style="font-weight: bold;font-size: 12pt;color: #000000;line-height: 1.5;">Testing Equirement Model</span><br/>
+        </td>
+      <td style="background-color: #D9D9D9;vertical-align: top;width: 71.35pt;border-top: 1.33px solid #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-weight: bold;font-size: 12pt;line-height: 1.5;">校验到期日</span><span style="font-size: 12pt;line-height: 1.5;"><br/>
+          <span style="font-weight: bold;">Calibration Due Date</span></span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 35.45pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 1.33px solid #000000;padding: 0cm 5.4pt;"> <span style="font-size: 12pt;line-height: 1.5;">1</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 127.6pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <br/>
+        </td>
+      <td style="vertical-align: top;width: 120.5pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 12pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">Nova牙科X射线机</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 120.45pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <br/>
+        </td>
+      <td style="vertical-align: top;width: 71.35pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"> <span style="font-size: 12pt;line-height: 1.5;">N/A</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 35.45pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 1.33px solid #000000;padding: 0cm 5.4pt;"></td>
+      <td style="vertical-align: top;width: 127.6pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"></td>
+      <td style="vertical-align: top;width: 120.5pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"></td>
+      <td style="vertical-align: top;width: 120.45pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"></td>
+      <td style="vertical-align: top;width: 71.35pt;border-top: 0px #000000;border-bottom: 1.33px solid #000000;border-right: 1.33px solid #000000;border-left: 0px #000000;padding: 0cm 5.4pt;"><span style="font-size: 10pt;font-family: &#39;Times New Roman&#39;, Times, serif;line-height: 1.5;"> <span style="font-weight: bold;font-size: 12pt;line-height: 1.5;"><br/>
+            </span></span></td>
+    </tr>
+  </tbody>
+</table><h2 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1004"></h2><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1011"></h3><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-926"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1012"></h3><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1013"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1017"></h3><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1014"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1016"></h3><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1015"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1019"></h3><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1018"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1023"></h3><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1021"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1020"></h3><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1022"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1025"></h3><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1024"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1027"></h3><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1026"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1031"></h3><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1029"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1028"></h3><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1030"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1033"></h3><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1032"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1035"></h3><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1034"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1037"></h3><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1036"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1039"></h3><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1038"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1333"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1334"></div><p id="polarion_17"></p>]]></field>
+    <field id="outlineNumbering">
+        <struct>
+            <item id="prefix">TC</item>
+        </struct>
+    </field>
+    <field id="renderingLayouts">
+        <list>
+            <struct>
+                <item id="label">Test Case</item>
+                <item id="layouter">titleDescTestSteps</item>
+                <item id="properties">
+                    <list>
+                        <struct>
+                            <item id="key">fieldsAtStart</item>
+                            <item id="value">id</item>
+                        </struct>
+                        <struct>
+                            <item id="key">fieldsAtEnd</item>
+                        </struct>
+                        <struct>
+                            <item id="key">fieldsAtEndAsTable</item>
+                            <item id="value">false</item>
+                        </struct>
+                        <struct>
+                            <item id="key">hidden</item>
+                        </struct>
+                        <struct>
+                            <item id="key">noPageBreak</item>
+                        </struct>
+                        <struct>
+                            <item id="key">sidebarWorkItemFields</item>
+                            <item id="value">severity,status,Safety,id</item>
+                        </struct>
+                        <struct>
+                            <item id="key">typeNotInProject</item>
+                        </struct>
+                    </list>
+                </item>
+                <item id="type">testcase</item>
+            </struct>
+        </list>
+    </field>
+    <field id="status">in_review</field>
+    <field id="structureLinkRole">parent</field>
+    <field id="title">Nova UIS test protocol</field>
+    <field id="type">testspecification</field>
+    <field id="usesOutlineNumbering">true</field>
+    <field id="version" type="string">A</field>
+</module>

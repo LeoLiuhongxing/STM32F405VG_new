@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Henry.Guo</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Bruce.Niu</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Hualin.Peng</field>
+    <field id="classificationForAll" type="enum:classificationForAll">software</field>
+    <field id="created">2020-02-19 13:46:15.599 +0800</field>
+    <field id="description" text-type="text/html">&lt;span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;"&gt;前提条件：&lt;/span&gt;&lt;br style="font-weight: normal;font-style: normal;text-decoration: none;color: #000000;"/&gt; &lt;span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;"&gt;主机能正常开启和工作&lt;/span&gt;&lt;br/&gt;</field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">verifies</item>
+                <item id="workItem">NOVA-1272</item>
+            </struct>
+            <struct>
+                <item id="role">verifies</item>
+                <item id="workItem">NOVA-1086</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">basic</field>
+    <field id="status">approved</field>
+    <field id="testSteps" type="struct:TestSteps">
+        <struct>
+            <item id="keys">
+                <list>
+                    <item>description</item>
+                    <item>expectedResult</item>
+                </list>
+            </item>
+            <item id="steps">
+                <list>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">开启主机 </item>
+                                <item text-type="text/html"><![CDATA[<span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">主机正常开机且无任何错误显示</span><br style="font-weight: normal;font-style: normal;text-decoration: none;color: #000000;"/>
+        <span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;"> 界面显示正常无误</span>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">查看界面显示并记录曝光时间</item>
+                                <item text-type="text/html"><![CDATA[主机上切牙的按键灯显示绿色<br/>
+        曝光时间：——]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按上升/下降调节按键修改曝光时间</item>
+                                <item text-type="text/html"><![CDATA[曝光时间可被调节<br/>
+        曝光时间区域：0.1秒-2秒<br/>
+        <span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">曝光时间：——</span>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按上切牙位按键2秒</item>
+                                <item text-type="text/html"><![CDATA[蜂鸣器响两声“嘀”<br/>
+        牙位的默认参数已被更改为最新参数]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">重启主机</item>
+                                <item text-type="text/html"><![CDATA[上切牙位的按键灯显示绿色<br/>
+        默认参数与更改的参数保持一致]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按下主机的下切牙并记录曝光时间</item>
+                                <item text-type="text/html"><![CDATA[下切牙的按键灯显示绿色<br/>
+        上切牙按键灯熄灭<br/>
+        <span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">曝光时间：——</span>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">&lt;span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;"&gt;按上升/下降调节按键修改曝光时间&lt;/span&gt;</item>
+                                <item text-type="text/html"><![CDATA[<span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">曝光时间可被调节</span><br style="font-weight: normal;font-style: normal;text-decoration: none;color: #000000;"/>
+        <span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">曝光时间区域：0.1秒-2秒<br/>
+          曝光时间：——</span>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">&lt;span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;"&gt;按下切牙位按键2秒&lt;/span&gt;</item>
+                                <item text-type="text/html"><![CDATA[<span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">蜂鸣器响两声“嘀”</span><br style="font-weight: normal;font-style: normal;text-decoration: none;color: #000000;"/>
+        <span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">牙位的默认参数已被更改为最新参数</span>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">&lt;span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;"&gt;重启主机&lt;/span&gt;</item>
+                                <item text-type="text/html"><![CDATA[<span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">下切牙位的按键灯显示绿色</span><br style="font-weight: normal;font-style: normal;text-decoration: none;color: #000000;"/>
+        <span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">默认参数与更改的参数保持一致</span>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">&lt;span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;"&gt;按下主机的咬翼并记录曝光时间&lt;/span&gt;</item>
+                                <item text-type="text/html"><![CDATA[<span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">咬翼的按键灯显示绿色</span><br style="font-weight: normal;font-style: normal;text-decoration: none;color: #000000;"/>
+        <span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;"> 上切牙按键灯熄灭</span><br style="font-weight: normal;font-style: normal;text-decoration: none;color: #000000;"/>
+        <span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;"> 曝光时间：——</span>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">&lt;span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;"&gt;按上升/下降调节按键修改曝光时间&lt;/span&gt;</item>
+                                <item text-type="text/html"><![CDATA[<span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">曝光时间可被调节</span><br style="font-weight: normal;font-style: normal;text-decoration: none;color: #000000;"/>
+        <span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;"> 曝光时间区域：0.1秒-2秒<br/>
+          曝光时间：——</span>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">&lt;span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;"&gt;按咬翼牙位按键2秒&lt;/span&gt;</item>
+                                <item text-type="text/html"><![CDATA[<span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">蜂鸣器响两声“嘀”</span><br style="font-weight: normal;font-style: normal;text-decoration: none;color: #000000;"/>
+        <span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">牙位的默认参数已被更改为最新参数</span>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">&lt;span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;"&gt;重启主机&lt;/span&gt;</item>
+                                <item text-type="text/html"><![CDATA[<span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">咬翼牙位的按键灯显示绿色</span><br style="font-weight: normal;font-style: normal;text-decoration: none;color: #000000;"/>
+        <span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">默认参数与更改的参数保持一致</span>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">同样步骤依次操作其他牙位</item>
+                                <item text-type="text/html"><![CDATA[被选中的牙位按键灯显示绿色<br/>
+        上个牙位的按键熄灭<br/>
+        <span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">曝光时间可被调节</span><br style="font-weight: normal;font-style: normal;text-decoration: none;color: #000000;"/>
+        <span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">曝光时间区域：0.1秒-2秒</span>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">快速多次的按每个牙位</item>
+                                <item text-type="text/html"><![CDATA[牙位会立即亮起一个按键灯且是绿色<br/>
+        每个牙位都有默认的参数<br/>
+        <span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">曝光时间区域都是：0.1秒-2秒</span>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="testType" type="enum:testtype">manual</field>
+    <field id="title">缺省参数的修改</field>
+    <field id="type">testcase</field>
+</work-item>

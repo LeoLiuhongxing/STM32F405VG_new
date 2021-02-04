@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hualin.Peng</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">admin</field>
+    <field id="created">2019-12-17 15:59:01.930 +0800</field>
+    <field id="description" text-type="text/html">液晶显示&lt;span style="font-style: italic;"&gt;Soredex&lt;/span&gt;和&lt;span style="font-style: italic;"&gt;Firmware x.x.x.xxxx&lt;/span&gt;信息，&lt;span style="font-style: italic;"&gt;x.x.x.xxxx为固件的版本号。&lt;/span&gt;</field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-609</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="type">softwareRequirement</field>
+</work-item>

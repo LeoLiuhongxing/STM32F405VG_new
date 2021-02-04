@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+            <struct>
+                <item id="status">waiting</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Hualin.Peng</field>
+    <field id="classificationForAll" type="enum:classificationForAll">system</field>
+    <field id="created">2019-12-05 10:22:18.040 +0800</field>
+    <field id="description" text-type="text/html">主机正常工作</field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">33.0</field>
+    <field id="severity">basic</field>
+    <field id="status">inReview</field>
+    <field id="testSteps" type="struct:TestSteps">
+        <struct>
+            <item id="keys">
+                <list>
+                    <item>description</item>
+                    <item>expectedResult</item>
+                </list>
+            </item>
+            <item id="steps">
+                <list>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">开启主机</item>
+                                <item text-type="text/html">主机正常开启且无任何错误显示</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">设置曝光时间2秒</item>
+                                <item text-type="text/html">曝光时间设置正常且无任何错误显示</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按下曝光手札并快速松开（小于2秒）</item>
+                                <item text-type="text/html"><![CDATA[主机停止曝光<br/>
+        状态指示灯由黄色变为蓝色<br/>
+        蜂鸣器立即停止<br/>
+        logo电源灯常亮，液晶屏幕显示错误代码]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html"><![CDATA[导入特定的软件程序导致一些系统故障如：管电流失效、机头过热、存储器失效、电池不能充电故障<br/>
+      ]]></item>
+                                <item text-type="text/html">软件导入正常</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">查看主机的状态</item>
+                                <item text-type="text/html"><![CDATA[<span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">logo电源灯常亮，状态指示灯由绿色变为蓝色<br/>
+          液晶屏幕显示错误代码</span>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="testType" type="enum:testtype">manual</field>
+    <field id="title">前提条件：</field>
+    <field id="type">testcase</field>
+</work-item>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hualin.Peng</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Leo.Liu</field>
+    <field id="created">2019-12-18 11:05:21.079 +0800</field>
+    <field id="description" text-type="text/html"><![CDATA[<ul>
+  <li>开机状态下，长按（不少于3秒）电源开/关按键</li>
+  <li>3秒后系统出现关机画面, 屏幕显示“正在关机”</li>
+  <li>1秒后，系统完成关机</li>
+</ul>]]></field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-724</item>
+            </struct>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-730</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="type">softwareRequirement</field>
+</work-item>

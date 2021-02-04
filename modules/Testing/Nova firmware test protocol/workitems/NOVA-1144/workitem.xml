@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Henry.Guo</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Bruce.Niu</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Hualin.Peng</field>
+    <field id="classificationForAll" type="enum:classificationForAll">software</field>
+    <field id="created">2020-02-18 10:22:11.424 +0800</field>
+    <field id="description" text-type="text/html"><![CDATA[前提条件：<br/>
+主机能正常开启和工作]]></field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">verifies</item>
+                <item id="workItem">NOVA-1064</item>
+            </struct>
+            <struct>
+                <item id="role">verifies</item>
+                <item id="workItem">NOVA-1080</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">basic</field>
+    <field id="status">approved</field>
+    <field id="testSteps" type="struct:TestSteps">
+        <struct>
+            <item id="keys">
+                <list>
+                    <item>description</item>
+                    <item>expectedResult</item>
+                </list>
+            </item>
+            <item id="steps">
+                <list>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">查看指导说明书</item>
+                                <item text-type="text/html">系统支持成人、儿童两种模式</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按开关键开机</item>
+                                <item text-type="text/html"><![CDATA[<span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">主机正常开机且无任何错误显示</span><br style="font-weight: normal;font-style: normal;text-decoration: none;color: #000000;"/>
+        <span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;"> 界面显示正常无误</span>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按成人/儿童按键</item>
+                                <item text-type="text/html"><![CDATA[界面显示成人、儿童两种模式且一个被选中时该图标高亮<br/>
+        如：选中成人时该图标高亮且儿童图标置灰]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">再按一次成人/儿童按键</item>
+                                <item text-type="text/html">儿童模式激活且图标高亮，成人图标置灰</item>
+                            </list>
+                        </item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="testType" type="enum:testtype">manual</field>
+    <field id="title">成人/儿童模式</field>
+    <field id="type">testcase</field>
+</work-item>

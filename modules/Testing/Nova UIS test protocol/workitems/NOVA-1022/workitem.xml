@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+            <struct>
+                <item id="status">waiting</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Hualin.Peng</field>
+    <field id="classificationForAll" type="enum:classificationForAll">system</field>
+    <field id="created">2019-12-04 14:05:11.274 +0800</field>
+    <field id="description" text-type="text/html">主机正常工作&lt;br/&gt;</field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">33.0</field>
+    <field id="severity">basic</field>
+    <field id="status">inReview</field>
+    <field id="testSteps" type="struct:TestSteps">
+        <struct>
+            <item id="keys">
+                <list>
+                    <item>description</item>
+                    <item>expectedResult</item>
+                </list>
+            </item>
+            <item id="steps">
+                <list>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">长按&lt;span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;"&gt;长按电源开/关键3秒并检查显示状态&lt;/span&gt;</item>
+                                <item text-type="text/html"><![CDATA[<span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">-- 开机后，系统进入初始化状态。</span><br style="font-weight: normal;font-style: normal;text-decoration: none;color: #000000;"/>
+        <span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">-- 所有LED灯点亮。状态灯三色依次（亮绿、黄、蓝）各       亮1秒。</span><br style="font-weight: normal;font-style: normal;text-decoration: none;color: #000000;"/>
+        <span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">-- 液晶显示Soredex和firmware x.x.x.xxxx信息</span><br style="font-weight: normal;font-style: normal;text-decoration: none;color: #000000;"/>
+        <span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">-- 3秒后，系统进入准备状态</span>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">检查系统进入准备状态的显示</item>
+                                <item text-type="text/html"><![CDATA[-- 系统状态灯（黄、绿、蓝）全部熄灭<br/>
+        -- 系统不具备曝光条件<br/>
+        -- 液晶显示主界面]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按一下咬翼的按键并查看显示状态</item>
+                                <item text-type="text/html"><![CDATA[界面的曝光时间变成系统默认值<br/>
+        咬翼的按键灯亮起]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">重启主机</item>
+                                <item text-type="text/html">主机重启正常且无任何错误显示</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">检查主机开机后显示</item>
+                                <item text-type="text/html">主机显示重启后的显示如：恢复原始的参数设置以及灯的显示</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">&lt;span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;background-color: #FFFFFF;line-height: 1.5;"&gt;按一下咬翼的按键并查看显示状态&lt;/span&gt;</item>
+                                <item text-type="text/html"><![CDATA[<span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;background-color: #FFFFFF;line-height: 1.5;">界面的曝光时间变成系统默认值</span><br style="font-weight: normal;font-style: normal;text-decoration: none;color: #000000;"/>
+        <span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;background-color: #FFFFFF;line-height: 1.5;"> 咬翼的按键灯亮起</span>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">检查就绪状态下的曝光状态并按下曝光键</item>
+                                <item text-type="text/html">主机不能曝光状态</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">多尝试按牙位按键并重启</item>
+                                <item text-type="text/html">重启后的界面、按键显示恢复到原始的状态显示</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">接入电池电量小于14.8V的电池</item>
+                                <item text-type="text/html">电池接入正常</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">开机并检查界面显示</item>
+                                <item text-type="text/html"><![CDATA[界面正常开机且电量显示0格<br/>
+        界面跳出提示框：“电池电量过低，无法曝光，请充电后使用！]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="testType" type="enum:testtype">manual</field>
+    <field id="title">前提条件：</field>
+    <field id="type">testcase</field>
+</work-item>

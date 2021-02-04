@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Henry.Guo</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Derek.Li</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Victor.Liu</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Bruce.Niu</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Ya.Li</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Craff.Qiu</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">William.Zhou</item>
+            </struct>
+        </list>
+    </field>
+    <field id="assignee">Bruce.Niu</field>
+    <field id="author">Bruce.Niu</field>
+    <field id="created">2020-03-11 16:40:29.758 +0800</field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="prsSubRequirement" multi="true" type="enum:subrequirement">
+        <list>
+            <item>ee</item>
+        </list>
+    </field>
+    <field id="prsType" type="enum:prstype">ra</field>
+    <field id="severity">major</field>
+    <field id="status">approved</field>
+    <field id="title">电子元器件应符合Rosh的要求。</field>
+    <field id="type">systemRequirement</field>
+</work-item>

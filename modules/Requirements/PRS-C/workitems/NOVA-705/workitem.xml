@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+        </list>
+    </field>
+    <field id="assignee">admin</field>
+    <field id="author">Bruce.Niu</field>
+    <field id="created">2018-10-30 10:45:35.812 +0800</field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-641</item>
+            </struct>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-666</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="prsSubRequirement" multi="true" type="enum:subrequirement">
+        <list>
+            <item>me</item>
+            <item>ee</item>
+        </list>
+    </field>
+    <field id="prsType" type="enum:prstype">function</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="title">工作环境：10～40℃，相对湿度：最大80%，大气压力：70kPa～106kPa。储存环境：-25~+55℃，相对湿度：最大93%.</field>
+    <field id="type">systemRequirement</field>
+</work-item>

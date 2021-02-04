@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+        </list>
+    </field>
+    <field id="assignee">Bruce.Niu</field>
+    <field id="author">admin</field>
+    <field id="created">2018-10-23 13:09:09.345 +0800</field>
+    <field id="description" text-type="text/html">&lt;p&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;More than 80%&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt; error &lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;conditions &lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;must be &lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;clearly &lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;detected by the system&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;, &lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;others or unknow errors should be &lt;/span&gt;&lt;span style="font-size: 9pt;"&gt;&amp;le;&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt; 20%, and &lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;show &lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;clear &lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;error code in the LCD&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;80&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;%&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;以上&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;的错误必须能够被&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;明确&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;检测出来，&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;其它或未知错误应&lt;/span&gt;&lt;span style="font-size: 9pt;"&gt;低于&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;20%&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;，&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;并在液晶屏幕上&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;清楚&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;显示错误代码&lt;/span&gt;&lt;/p&gt;</field>
+    <field id="level" type="enum:priority">33.0</field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="title">MRS 4-23</field>
+    <field id="type">marketRequirement</field>
+</work-item>

@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module>
+    <field id="assignee1" type="enum:@user[project_assignable]">Leo.Liu</field>
+    <field id="author">Leo.Liu</field>
+    <field id="created">2019-12-02 14:08:40.669 +0800</field>
+    <field id="headingSidebarFields">severity,status</field>
+    <field id="homePageContent" text-type="text/html"><![CDATA[<div id="polarion_wiki macro name=page_break|uid=polarion_1" contentEditable="false"></div><p id="polarion_4"></p><table id="polarion_1" style="width: 482pt;margin-left: 0px;margin-right: auto;empty-cells: show;">
+  <tbody>
+    <tr>
+      <th style="text-align: left;vertical-align: top;width: 262pt;height: 35pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">Document Name文件名称</span><br/>
+        </th>
+      <th style="text-align: left;vertical-align: top;width: 220pt;height: 35pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">固件需求规范</span><br/>
+        </th>
+    </tr>
+    <tr>
+      <td style="width: 262pt;height: 28pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">Document No. &amp; Rev.文件编号及版本</span><br/>
+        </td>
+      <td style="width: 220pt;height: 28pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">PMF-RND015-030</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="width: 262pt;height: 31pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">Project Name项目名称</span><br/>
+        </td>
+      <td style="width: 220pt;height: 31pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">Nova</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="width: 262pt;height: 16pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">Product Name产品名称</span><br/>
+        </td>
+      <td style="width: 220pt;height: 16pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">牙科X射线机</span><br/>
+        </td>
+    </tr>
+  </tbody>
+</table><p id="polarion_2">
+  <br/>
+</p><p id="polarion_5"></p><p id="polarion_76">
+  <span style="font-size: 14pt;line-height: 1.5;">Approval List 批准列表：</span>
+</p><table id="polarion_77" style="width: 484pt;margin-left: 0px;margin-right: auto;empty-cells: show;">
+  <tbody>
+    <tr>
+      <th style="text-align: left;vertical-align: top;width: 105pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">Approval</span><br/>
+        <span style="font-size: 14pt;line-height: 1.5;">批准</span><br/>
+        </th>
+      <th style="text-align: left;vertical-align: top;width: 101pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">Function</span><br/>
+        <span style="font-size: 14pt;line-height: 1.5;">职能</span><br/>
+        </th>
+      <th style="text-align: left;vertical-align: top;width: 92pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">Name(Print)</span><br/>
+        <span style="font-size: 14pt;line-height: 1.5;">名称(打印)</span><br/>
+        </th>
+      <th style="text-align: left;vertical-align: top;width: 105pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">Signature</span><br/>
+        <span style="font-size: 14pt;line-height: 1.5;">签名</span><br/>
+        </th>
+      <th style="text-align: left;vertical-align: top;width: 80pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">Date</span><br/>
+        <span style="font-size: 14pt;line-height: 1.5;">日期</span><br/>
+        </th>
+    </tr>
+    <tr>
+      <td style="width: 105pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">Prepared by：</span><br/>
+        </td>
+      <td style="width: 101pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">固件工程师</span><br/>
+        </td>
+      <td style="width: 92pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="width: 105pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="width: 80pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="width: 105pt;height: 33pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">Reviewed by：</span><br/>
+        </td>
+      <td style="width: 101pt;height: 33pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">固件电子经理</span><br/>
+        </td>
+      <td style="width: 92pt;height: 33pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="width: 105pt;height: 33pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="width: 80pt;height: 33pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="width: 105pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">Reviewed by：</span><br/>
+        </td>
+      <td style="width: 101pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">测试验证经理</span><br/>
+        </td>
+      <td style="width: 92pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="width: 105pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="width: 80pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="width: 105pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">Reviewed by：</span><br/>
+        </td>
+      <td style="width: 101pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">系统工程师</span><br/>
+        </td>
+      <td style="width: 92pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="width: 105pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="width: 80pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="width: 105pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">Approved by:</span><br/>
+        </td>
+      <td style="width: 101pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">工程经理</span><br/>
+        </td>
+      <td style="width: 92pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="width: 105pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="width: 80pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="width: 105pt;height: 21pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="width: 101pt;height: 21pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="width: 92pt;height: 21pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="width: 105pt;height: 21pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="width: 80pt;height: 21pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+  </tbody>
+</table><p id="polarion_7">
+  <br/>
+</p><p id="polarion_8">
+  <br/>
+</p><p id="polarion_9">
+  <br/>
+</p><p id="polarion_10">
+  <br/>
+</p><p id="polarion_11">
+  <br/>
+</p><p id="polarion_12">
+  <span style="font-size: 14pt;line-height: 1.5;">更改历史记录Change History：</span>
+</p><table id="polarion_13" style="width: 510pt;margin-left: 0px;margin-right: auto;empty-cells: show;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <th style="text-align: left;vertical-align: middle;width: 92pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">版本Revision<br/>
+          </span></th>
+      <th style="text-align: left;vertical-align: middle;width: 184pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">更改描述<br/>
+          Change Description<br/>
+          </span></th>
+      <th style="text-align: left;vertical-align: middle;width: 106pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">起草人<br/>
+          Prepared by<br/>
+          </span></th>
+      <th style="text-align: left;vertical-align: middle;width: 128pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">修订日期Change Date<br/>
+          </span></th>
+    </tr>
+    <tr>
+      <td style="vertical-align: middle;width: 92pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">A<br/>
+          </span></td>
+      <td style="vertical-align: middle;width: 184pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">首次发行<br/>
+          </span></td>
+      <td style="vertical-align: middle;width: 106pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">刘红星<br/>
+          </span></td>
+      <td style="vertical-align: middle;width: 128pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;line-height: 1.5;">2019.10.09<br/>
+          </span></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: middle;width: 92pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: middle;width: 184pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: middle;width: 106pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: middle;width: 128pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: middle;width: 92pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: middle;width: 184pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: middle;width: 106pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: middle;width: 128pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+  </tbody>
+</table><p id="polarion_3">
+  <br/>
+</p><h1 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1049"></h1><p id="polarion_21">
+  <span style="font-weight: bold;font-size: 16pt;line-height: 1.2;">1.1 Purpose of the document / 目的</span>
+</p><p id="polarion_6" class="MsoNormal">This document contains the firmware requirements, which the product has to fullfill. This document is confidential and must not be given to any other without the permission. The requirements should only state WHAT the system shall do but NOT HOW it will be done or how it will be implemented. / 本文档描述了产品的软件需求。未经允许，不得转给其他人。软件需求只描述系统应该做什么，不包含如何实现部分。</p><p id="polarion_16" class="MsoFooter"> </p><p id="polarion_17" class="MsoNormal"> </p><h1 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1051"></h1><table id="polarion_18" style="border: none;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td style="background-color: #E5E5E5;vertical-align: top;width: 239.3pt;border: 1pt solid windowtext;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> <span style="font-weight: bold;">文档<span style="color: #000000;">名称</span></span><span style="font-weight: bold;color: #000000;"> / Document</span><br/>
+        </td>
+      <td style="background-color: #E5E5E5;vertical-align: top;width: 8cm;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> <span style="font-weight: bold;color: #000000;">文档编号 / Document number</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 239.3pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;">  <br/>
+        </td>
+      <td style="vertical-align: top;width: 8cm;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;">  <br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 239.3pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;">  <br/>
+        </td>
+      <td style="vertical-align: top;width: 8cm;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;">  <br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 239.3pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;">  <br/>
+        </td>
+      <td style="vertical-align: top;width: 8cm;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;">  <br/>
+        </td>
+    </tr>
+  </tbody>
+</table><p id="polarion_19" class="MsoNormal"> </p><h1 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1054"></h1><p id="polarion_20"></p><p id="polarion_22">
+  <span style="font-weight: bold;font-size: 16pt;line-height: 1.2;">3.1 Requirements Template / 需求模板</span>
+</p><p id="polarion_23" class="MsoNormal">In the following section there will be a detailed description of the requirements template, which all the requirements are based on. A special benefit realized by the modular design of the template is, that requirements can be developed in parallel by more than one person and that the requirements can be easily reused. / 本部分详细描述固件需求模板；需求模板模块化设计的好处在于：产品的固件需求可以多个工程师并行编写，并且可以复用。  </p><table id="polarion_24" style="border: none;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td colspan="2" style="width: 460.6pt;height: 16.85pt;border: 1pt solid windowtext;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">[FWR xxxxxx]</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 118.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">需求优先级</span><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"> / Priority</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 341.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> <span style="font-size: 8pt;line-height: 1.5;"> </span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 118.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;">来源 / SourceSource field <br/>
+        </td>
+      <td style="vertical-align: top;width: 341.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> <span style="font-family: Arial, Helvetica, sans-serif;"> </span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="vertical-align: top;width: 460.6pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">需求描述</span><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"> / Description:</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">                                                                     </span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;"> </span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;"> </span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;"> </span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;"> </span><br/>
+        </td>
+    </tr>
+  </tbody>
+</table><p id="polarion_25" class="MsoNormal"> </p><p id="polarion_26" class="MsoNormal">[FWR xxxxxx] 为需求内容编号，xxxxxx = unique number, beginning with 00001. Usually incremented in steps of 1. xxxxxx = 唯一编号，以00001开头。通常以1为单位递增。</p><p id="polarion_27" class="MsoNormal"></p><p id="polarion_42" class="ReqSource">
+  <span style="font-size: 11pt;line-height: 1.5;">需求优先级如下表</span>：
+</p><table id="polarion_46" style="border: none;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top;width: 77.75pt;height: 18.4pt;border: 1pt solid windowtext;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> <span style="font-weight: bold;">需求优先级</span><br/>
+        <span style="font-weight: bold;">Priority</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 240.95pt;height: 18.4pt;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> <span style="font-weight: bold;">定义</span><br/>
+        <span style="font-weight: bold;">Definition</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 96.1pt;height: 18.4pt;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> <span style="font-weight: bold;">备注</span><br/>
+        <span style="font-weight: bold;">Comments</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 77.75pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 高High<br/>
+        </td>
+      <td style="vertical-align: top;width: 240.95pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 产品必须满足的需求和实现的功能（包含法规的要求）；<br/>
+        Must to have, it is the mandatory requirement;<br/>
+        </td>
+      <td style="vertical-align: top;width: 96.1pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;">  <br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 77.75pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 中Medium<br/>
+        </td>
+      <td style="vertical-align: top;width: 240.95pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 产品需要满足的需求，需要实现，但优先级没那么高；<br/>
+        Prefered to have, it is very important requirement;<br/>
+        </td>
+      <td style="vertical-align: top;width: 96.1pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;">  <br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 77.75pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 低 Low<br/>
+        </td>
+      <td style="vertical-align: top;width: 240.95pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 产品尽可能实现的需求，可以实现，也可以不实现；<br/>
+        Nice to have, it is a ok requirement;<br/>
+        </td>
+      <td style="vertical-align: top;width: 96.1pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 在合理的理由下，可以不被实现。<br/>
+        </td>
+    </tr>
+  </tbody>
+</table><p id="polarion_48" class="MsoNormal"> </p><p id="polarion_57" style="margin-left: 0cm;" class="MsoNormal">来源 / Source： The source, the requirement came from (international standard, persons, experience, system requirements, risk analysis, change request, …) /来源，即需求来自（国际标准，他人，经验，系统要求，风险分析，变更请求...）</p><p id="polarion_58" style="margin-left: 0cm;" class="MsoFooter">
+  <span style="font-size: 11pt;line-height: 1.5;">需求描述/Description： This field holds the requirement, which has to be met along with related sketches / drawings where appropriate. Text marked as note is not part of the requirement, but gives additional background information, possible solutions for the requirement and hints, what effects this requirement may have. / 需求的描述。此字段包含在适当的情况下必须满足相关草图/绘图的要求。标记为注释的文本不是需求的一部分，但需要提供额外的背景信息、需求和提示的可能解决方案以及此需求可能产生的影响。</span>
+</p><p id="polarion_38">
+  <span style="font-weight: bold;font-size: 16pt;line-height: 1.2;">3.2 Abbreviations and terms used / 使用的缩写和术语</span>
+</p><p id="polarion_59" class="MsoFooter"> </p><table id="polarion_60" style="border: none;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td style="background-color: #E5E5E5;vertical-align: top;width: 111.75pt;border: 1pt solid windowtext;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> Abbreviati<span style="color: #000000;">on, term / 缩写，术语</span><br/>
+        </td>
+      <td style="background-color: #E5E5E5;vertical-align: top;width: 352.65pt;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> <span style="color: #000000;">Description / 描述</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 111.75pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;">  <br/>
+        </td>
+      <td style="vertical-align: top;width: 352.65pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;">  <br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 111.75pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;">  <br/>
+        </td>
+      <td style="vertical-align: top;width: 352.65pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;">  <br/>
+        </td>
+    </tr>
+  </tbody>
+</table><p id="polarion_63" class="MsoNormal"> </p><p id="polarion_56" class="MsoNormal"></p><p id="polarion_81" class="MsoNormal"> </p><p id="polarion_82"></p><div id="polarion_wiki macro name=page_break|uid=polarion_2" contentEditable="false"></div><p id="polarion_93" class="MsoFooter"></p><h2 id="polarion_wiki macro name=module-workitem;params=id=NOVA-943"></h2><p id="polarion_43">本章包含所有需求。This chapter contains the requirements.</p><p id="polarion_39"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1067"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1064"></div><p id="polarion_55"></p><table id="polarion_64" style="width: 325pt;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td style="vertical-align: bottom;width: 71pt;height: 36.95pt;padding: 0cm 5.4pt;"></td>
+      <td style="vertical-align: bottom;width: 54pt;height: 36.95pt;padding: 0cm 5.4pt;"></td>
+      <td style="width: 54pt;height: 36.95pt;border: 1pt solid windowtext;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;">
+          <span style="color: #000000;">前牙/切牙</span> 
+        </div>
+        </td>
+      <td style="width: 92pt;height: 36.95pt;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;">
+          <span style="color: #000000;">后牙/尖牙、磨牙</span> 
+        </div>
+        </td>
+      <td style="width: 54pt;height: 36.95pt;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;">
+          <span style="color: #000000;">咬翼、咬合</span> 
+        </div>
+        </td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="width: 71pt;height: 14.25pt;border: 1pt solid windowtext;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> <span style="color: #000000;">数字传感器</span><br/>
+        </td>
+      <td style="vertical-align: bottom;width: 54pt;height: 14.25pt;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: none;border-left: none;padding: 0cm 5.4pt;"> <span style="color: #000000;">成人</span><br/>
+        </td>
+      <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;">
+          <span style="color: #000000;">0.125</span> 
+        </div>
+        </td>
+      <td style="width: 92pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;">
+          <span style="color: #000000;">0.160 </span> 
+        </div>
+        </td>
+      <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;">
+          <span style="color: #000000;">0.160 </span> 
+        </div>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: bottom;width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: none;border-left: none;padding: 0cm 5.4pt;"> <span style="color: #000000;">儿童</span><br/>
+        </td>
+      <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;">
+          <span style="color: #000000;">0.100 </span> 
+        </div>
+        </td>
+      <td style="width: 92pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;">
+          <span style="color: #000000;">0.125 </span> 
+        </div>
+        </td>
+      <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;">
+          <span style="color: #000000;">0.125 </span> 
+        </div>
+        </td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="width: 71pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> <span style="color: #000000;">胶片</span><br/>
+        </td>
+      <td style="vertical-align: bottom;width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: none;border-left: none;padding: 0cm 5.4pt;"> <span style="color: #000000;">成人</span><br/>
+        </td>
+      <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;">
+          <span style="color: #000000;">0.320 </span> 
+        </div>
+        </td>
+      <td style="width: 92pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;">
+          <span style="color: #000000;">0.400 </span> 
+        </div>
+        </td>
+      <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;">
+          <span style="color: #000000;">0.400 </span> 
+        </div>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: bottom;width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: none;border-left: none;padding: 0cm 5.4pt;"> <span style="color: #000000;">儿童</span><br/>
+        </td>
+      <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;">
+          <span style="color: #000000;">0.160 </span> 
+        </div>
+        </td>
+      <td style="width: 92pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;">
+          <span style="color: #000000;">0.320 </span> 
+        </div>
+        </td>
+      <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;">
+          <span style="color: #000000;">0.320 </span> 
+        </div>
+        </td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="width: 71pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> <span style="color: #000000;">影像板</span><br/>
+        </td>
+      <td style="vertical-align: bottom;width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: none;border-left: none;padding: 0cm 5.4pt;"> <span style="color: #000000;">成人</span><br/>
+        </td>
+      <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;">
+          <span style="color: #000000;">0.160 </span> 
+        </div>
+        </td>
+      <td style="width: 92pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;">
+          <span style="color: #000000;">0.200 </span> 
+        </div>
+        </td>
+      <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;">
+          <span style="color: #000000;">0.200 </span> 
+        </div>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: bottom;width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: none;border-left: none;padding: 0cm 5.4pt;"> <span style="color: #000000;">儿童</span><br/>
+        </td>
+      <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;">
+          <span style="color: #000000;">0.100 </span> 
+        </div>
+        </td>
+      <td style="width: 92pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;">
+          <span style="color: #000000;">0.160 </span> 
+        </div>
+        </td>
+      <td style="width: 54pt;height: 14.25pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> 
+        <div style="text-align: center;">
+          <span style="color: #000000;">0.160 </span> 
+        </div>
+        </td>
+    </tr>
+  </tbody>
+</table><p id="polarion_44"></p><p id="polarion_29"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1063"></div><p id="polarion_45"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1066"></div><p id="polarion_31"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1065"></div><p id="polarion_49"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1060"></div><p id="polarion_61"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1059"></div><p id="polarion_47" style="text-align: left;" class="MsoNormal"></p><p id="polarion_50" style="text-align: left;" class="MsoNormal"></p><p id="polarion_62"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1062"></div><p id="polarion_73"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1061"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1270"></div><p id="polarion_14"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1269"></div><p id="polarion_15"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1272"></div><p id="polarion_28"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1271"></div><p id="polarion_30"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1281"></div><p id="polarion_32"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1278"></div><p id="polarion_33"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1277"></div><p id="polarion_34"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1280"></div><p id="polarion_35"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1279"></div><p id="polarion_51"></p><p id="polarion_36"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1274"></div><p id="polarion_37"></p><p id="polarion_40"></p><p id="polarion_41"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1275"></div><p id="polarion_53"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1323"></div><p id="polarion_54"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1322"></div><p id="polarion_75">
+  <br/>
+</p>]]></field>
+    <field id="outlineNumbering">
+        <struct>
+            <item id="prefix">FW</item>
+        </struct>
+    </field>
+    <field id="renderingLayouts">
+        <list>
+            <struct>
+                <item id="label">Software Requirement</item>
+                <item id="layouter">paragraph</item>
+                <item id="properties">
+                    <list>
+                        <struct>
+                            <item id="key">fieldsAtStart</item>
+                            <item id="value">id</item>
+                        </struct>
+                        <struct>
+                            <item id="key">fieldsAtEnd</item>
+                            <item id="value">priority</item>
+                        </struct>
+                        <struct>
+                            <item id="key">fieldsAtEndAsTable</item>
+                            <item id="value">true</item>
+                        </struct>
+                        <struct>
+                            <item id="key">hidden</item>
+                        </struct>
+                        <struct>
+                            <item id="key">noPageBreak</item>
+                        </struct>
+                        <struct>
+                            <item id="key">sidebarWorkItemFields</item>
+                            <item id="value">status,priority</item>
+                        </struct>
+                        <struct>
+                            <item id="key">typeNotInProject</item>
+                        </struct>
+                    </list>
+                </item>
+                <item id="type">softwareRequirement</item>
+            </struct>
+        </list>
+    </field>
+    <field id="status">approved</field>
+    <field id="structureLinkRole">parent</field>
+    <field id="title">Nova固件需求规范</field>
+    <field id="type">reqspecification</field>
+    <field id="usesOutlineNumbering">true</field>
+</module>

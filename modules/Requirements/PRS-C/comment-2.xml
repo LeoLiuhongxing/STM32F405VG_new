@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module-comment>
+    <field id="author">Bruce.Niu</field>
+    <field id="created">2020-04-10 09:12:13.305 +0800</field>
+    <field id="signatureData">
+        <struct>
+            <item id="targetStatusId">published</item>
+            <item id="verdict">signed</item>
+            <item id="workflowActionId">publish</item>
+            <item id="workflowSignature">subterra:data-service:objects:/default/Nova${DocumentWorkflowSignature}{Module}{moduleFolder}Requirements#PRS-C#2</item>
+        </struct>
+    </field>
+    <field id="tags">
+        <list>
+            <item>signatures</item>
+        </list>
+    </field>
+    <field id="text" text-type="text/plain">ok</field>
+</module-comment>

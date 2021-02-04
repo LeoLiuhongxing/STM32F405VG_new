@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Bruce.Niu</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Qingchun.Zhong</field>
+    <field id="created">2020-03-18 10:05:19.985 +0800</field>
+    <field id="description" text-type="text/html"><![CDATA[<table>
+  <tbody>
+    <tr>
+      <td colspan="2" style="width: 460.6pt;height: 16.85pt;border: 1pt solid windowtext;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> [FWR 000017]<br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="width: 118.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 需求优先级 / Priority<br/>
+        </td>
+      <td style="width: 341.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> <span style="font-size: 8pt;line-height: 1.5;"> 高</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="width: 118.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> <span style="font-size: 12pt;line-height: 1.5;">来源 / Source field </span><br/>
+        </td>
+      <td style="width: 341.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> <span style="font-size: 12pt;line-height: 1.5;"> Nova-744 充电电池显示</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="width: 460.6pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 需求描述 / 充电时电池电量显示<br/>
+        <span style="font-size: 12pt;line-height: 1.5;">1. 电压</span><span style="color: #000000;">&lt;15.0V，显示0格</span><br/>
+        <span style="font-size: 12pt;line-height: 1.5;">2. </span><span style="color: #000000;">15.0V≤电池电压＜15.5V</span><span style="font-size: 12pt;line-height: 1.5;">显示1格</span><br/>
+        <span style="font-size: 12pt;line-height: 1.5;">3.</span><span style="color: #000000;"> 15.5V≤电池电压＜16.0V</span><span style="font-size: 12pt;line-height: 1.5;">显示2格</span><br/>
+        <span style="font-size: 12pt;line-height: 1.5;">4．</span><span style="color: #000000;">16.0V≤电池电压＜16.5V</span><span style="font-size: 12pt;line-height: 1.5;">显示3格</span><br/>
+        <span style="font-size: 12pt;line-height: 1.5;">5．</span><span style="color: #000000;">电池电压</span><span style="font-size: 12pt;line-height: 1.5;">≥</span>16.5v<span style="font-size: 12pt;line-height: 1.5;">显示4格</span><br/>
+         <br/>
+         <br/>
+        </td>
+    </tr>
+  </tbody>
+</table>]]></field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">major</field>
+    <field id="status">approved</field>
+    <field id="type">softwareRequirement</field>
+</work-item>

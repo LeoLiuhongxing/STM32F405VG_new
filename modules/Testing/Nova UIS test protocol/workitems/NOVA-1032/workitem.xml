@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+            <struct>
+                <item id="status">waiting</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Hualin.Peng</field>
+    <field id="classificationForAll" type="enum:classificationForAll">system</field>
+    <field id="created">2019-12-05 10:27:04.293 +0800</field>
+    <field id="description" text-type="text/html">主机正常工作</field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">33.0</field>
+    <field id="severity">basic</field>
+    <field id="status">inReview</field>
+    <field id="testSteps" type="struct:TestSteps">
+        <struct>
+            <item id="keys">
+                <list>
+                    <item>description</item>
+                    <item>expectedResult</item>
+                </list>
+            </item>
+            <item id="steps">
+                <list>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">开机</item>
+                                <item text-type="text/html">主机正常开机且无任何错误显示</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按儿童/成人按键选择儿童模式</item>
+                                <item text-type="text/html">儿童模式的图标显示高亮</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按模拟/数字模式选择数字模式</item>
+                                <item text-type="text/html">数字模式的图标显示高亮</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按下下尖牙按键</item>
+                                <item text-type="text/html">下尖牙被选中，牙位的绿灯亮起</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">检查主机的曝光时间显示</item>
+                                <item text-type="text/html">曝光时间显示系统默认值：0.16秒</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按曝光时间调节键调节曝光时间如设置：1.25秒</item>
+                                <item text-type="text/html">曝光时间设置完成且无任何错误显示</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">长按下尖牙2秒</item>
+                                <item text-type="text/html">蜂鸣器响2声，默认值设置成功</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">切换到上尖牙并检查界面显示</item>
+                                <item text-type="text/html"><![CDATA[上尖牙被选中，该牙位的绿灯亮起<br/>
+        曝光时间显示系统默认值：0.16秒]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">再次切换到下尖牙</item>
+                                <item text-type="text/html"><![CDATA[<span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">下尖牙被选中，该牙位的绿灯亮起</span><br style="font-weight: normal;font-style: normal;text-decoration: none;color: #000000;"/>
+        <span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">曝光时间显示系统默认值：1.25秒</span>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html"><![CDATA[按如上操作检验剩余的牙位的系统默认值和更改默认值。具体参考附件表格：<br/>
+        注释：数字模式参考数字传感器、模拟模式参考胶片模式、牙片宝参考影像板<br/>
+        <img title="1-参数.png" src="workitemimg:1-%E5%8F%82%E6%95%B0.png" style="width: 206px;height: 97px;" data-lastmodified="2019-12-05T10:47:29.532+08:00"/><br/>
+      ]]></item>
+                                <item text-type="text/html"><![CDATA[主机显示系统默认值正确无误<br/>
+        更改后的默认值能被保存]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="testType" type="enum:testtype">manual</field>
+    <field id="title">前提条件：</field>
+    <field id="type">testcase</field>
+</work-item>

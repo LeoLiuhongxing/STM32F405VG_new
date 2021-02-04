@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+        </list>
+    </field>
+    <field id="assignee">Bruce.Niu</field>
+    <field id="author">admin</field>
+    <field id="created">2018-10-23 13:09:08.881 +0800</field>
+    <field id="description" text-type="text/html">&lt;p&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;It is possible to complete the installation &lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;and operation &lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;of the &lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;system using &lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;the visual quick guide&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt; and operation video.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;通过使用快速指南和操作视频，能够完成系统的安装和使用&lt;/span&gt;&lt;/p&gt;</field>
+    <field id="level" type="enum:priority">33.0</field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="title">MRS 4-3</field>
+    <field id="type">marketRequirement</field>
+</work-item>

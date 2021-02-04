@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hualin.Peng</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Qingchun.Zhong</field>
+    <field id="created">2020-03-17 15:57:35.302 +0800</field>
+    <field id="description" text-type="text/html">操作界面显示DAP,和实际值误差不超过±50%</field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-909</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">major</field>
+    <field id="status">approved</field>
+    <field id="type">softwareRequirement</field>
+</work-item>

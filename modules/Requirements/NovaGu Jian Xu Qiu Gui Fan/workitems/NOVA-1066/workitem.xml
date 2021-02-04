@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Bruce.Niu</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Junjie.Yuan</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">admin</field>
+    <field id="created">2019-12-17 15:47:27.093 +0800</field>
+    <field id="description" text-type="text/html"><![CDATA[<table style="border: none;">
+  <tbody>
+    <tr>
+      <td colspan="2" style="width: 460.6pt;height: 16.85pt;border: 1pt solid windowtext;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">[FWR 000004]</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="width: 118.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">需求优先级</span><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"> / Priority</span><br/>
+        </td>
+      <td style="width: 341.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> <span style="font-size: 8pt;line-height: 1.5;"> 高</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="width: 118.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;">来源 / Source field <br/>
+        </td>
+      <td style="width: 341.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> <span style="font-family: Arial, Helvetica, sans-serif;">Nova-744 液晶显示内容包含电压、电流、DAP、时间、电池电量、数字/模拟模式、报错、系统信息</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="width: 460.6pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">需求描述</span><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"> / Description:</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">                                                                     </span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">       1.软件可以控制液晶显示黑色背景，黄色字体     </span> <span style="font-family: Arial, Helvetica, sans-serif;"> </span><br/>
+        </td>
+    </tr>
+  </tbody>
+</table>]]></field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-744</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="type">softwareRequirement</field>
+</work-item>

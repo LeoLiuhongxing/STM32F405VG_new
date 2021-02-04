@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+        </list>
+    </field>
+    <field id="assignee">Bruce.Niu</field>
+    <field id="author">admin</field>
+    <field id="benchmark" text-type="text/html" type="text/html">&lt;p&gt;&lt;br&gt;&lt;/p&gt;</field>
+    <field id="created">2018-10-23 13:09:08.426 +0800</field>
+    <field id="customer" text-type="text/html" type="text/html">&lt;p&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;color: #0000FF;"&gt;Public:100%&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;color: #0000FF;"&gt;Private:100%&lt;/span&gt;&lt;/p&gt;</field>
+    <field id="description" text-type="text/html">&lt;p&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;Easy to install and use&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;No need to hit nails on the wall or floor, users only need to open the package box, and soon start to use with the help of operation video and quick guide &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;易安装和使用&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;无需在墙上或地板上钉钉子，用户只需要打开包装箱，就可以在操作视频和快速指南的帮助下迅速开始使用&lt;/span&gt;&lt;/p&gt;</field>
+    <field id="level" type="enum:priority">33.0</field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="title">MRS 1-5</field>
+    <field id="type">marketRequirement</field>
+</work-item>

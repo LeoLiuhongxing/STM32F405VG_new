@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="author">Hualin.Peng</field>
+    <field id="classificationForAll" type="enum:classificationForAll">software</field>
+    <field id="created">2020-04-15 16:03:53.464 +0800</field>
+    <field id="description" text-type="text/html">主机正常工作</field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">90.0</field>
+    <field id="severity">basic</field>
+    <field id="status">draft</field>
+    <field id="testSteps" type="struct:TestSteps">
+        <struct>
+            <item id="keys">
+                <list>
+                    <item>description</item>
+                    <item>expectedResult</item>
+                </list>
+            </item>
+            <item id="steps">
+                <list>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">接入电量4格的电池</item>
+                                <item text-type="text/html">电池正常接入且无任何错误显示</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">开机</item>
+                                <item text-type="text/html">主机正常开机且无任何错误</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">查看电量的充电指示图标</item>
+                                <item text-type="text/html"><![CDATA[界面图标显示如下：<br/>
+        <img src="attachment:8-screenshot-20200415-160100.png" style="width: 206px;height: 155px;"/>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="testType" type="enum:testtype">manual</field>
+    <field id="title">充电显示</field>
+    <field id="type">testcase</field>
+</work-item>

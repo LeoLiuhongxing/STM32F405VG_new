@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Hualin.Peng</field>
+    <field id="classificationForAll" type="enum:classificationForAll">software</field>
+    <field id="created">2019-11-29 10:12:51.944 +0800</field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">33.0</field>
+    <field id="severity">basic</field>
+    <field id="status">draft</field>
+    <field id="testSteps" type="struct:TestSteps">
+        <struct>
+            <item id="keys">
+                <list>
+                    <item>description</item>
+                    <item>expectedResult</item>
+                </list>
+            </item>
+            <item id="steps">
+                <list>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">长按电源键3秒</item>
+                                <item text-type="text/html">主机正常开机且显示正常开机界面</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">长按电源键3秒</item>
+                                <item text-type="text/html">主机正常关机且所有指示灯熄灭</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">再次长按电源键3秒并检查Nova的logo灯</item>
+                                <item text-type="text/html"><![CDATA[主机正常开机且logo的LED灯点亮<br/>
+        状态灯依次点亮1秒，顺序：绿、黄、蓝]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">检查开机界面</item>
+                                <item text-type="text/html">界面显示Soredex和Firmware x.x.x.xxx的信息。3秒后，进入准备状态</item>
+                            </list>
+                        </item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="testType" type="enum:testtype">manual</field>
+    <field id="title">6.2.1 电源开/关键</field>
+    <field id="type">testcase</field>
+</work-item>

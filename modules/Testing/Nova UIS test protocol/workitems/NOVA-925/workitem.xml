@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="author">Hualin.Peng</field>
+    <field id="created">2019-11-29 09:11:53.636 +0800</field>
+    <field id="priority">33.0</field>
+    <field id="severity">normal</field>
+    <field id="status">open</field>
+    <field id="title">Nova UIS test protocol</field>
+    <field id="type">heading</field>
+</work-item>

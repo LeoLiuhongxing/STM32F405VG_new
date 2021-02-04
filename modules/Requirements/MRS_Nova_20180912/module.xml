@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module>
+    <field id="assignee1" type="enum:@user[project_assignable]">Ya.Li</field>
+    <field id="author">admin</field>
+    <field id="created">2018-10-19 16:01:48.270 +0800</field>
+    <field id="headingSidebarFields">severity,status</field>
+    <field id="homePageContent" text-type="text/html"><![CDATA[<p id="polarion_3">
+  <br/>
+</p><p id="polarion_4" style="text-align: center;">
+  <span style="font-size: 18pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.2;">Market Requirement Specification/MRS</span>
+</p><p id="polarion_5" style="text-align: center;">
+  <span style="font-size: 18pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.2;">市场需求规范</span>
+</p><p id="polarion_6" style="text-align: center;">
+  <br/>
+</p><table id="polarion_7" style="width: 482pt;margin-left: 0px;margin-right: auto;empty-cells: show;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <th style="text-align: left;vertical-align: top;width: 262pt;height: 35pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Document Name文件名称</span><br/>
+        </th>
+      <th style="text-align: left;vertical-align: top;width: 220pt;height: 35pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </th>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 262pt;height: 28pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Document No. &amp; Rev.文件编号及版本</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 220pt;height: 28pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 262pt;height: 31pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Project Name项目名称</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 220pt;height: 31pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Nova</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 262pt;height: 16pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Product Name产品名称</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 220pt;height: 16pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+  </tbody>
+</table><p id="polarion_8">
+  <br/>
+</p><p id="polarion_9">
+  <span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Approval List 批准列表：</span>
+</p><table id="polarion_10" style="width: 484pt;margin-left: 0px;margin-right: auto;empty-cells: show;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <th style="text-align: left;vertical-align: top;width: 85pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Approval</span><br/>
+        <span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">批准</span><br/>
+        </th>
+      <th style="text-align: left;vertical-align: top;width: 121pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Function</span><br/>
+        <span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">职能</span><br/>
+        </th>
+      <th style="text-align: left;vertical-align: top;width: 92pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Name(Print)</span><br/>
+        <span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">名称(打印)</span><br/>
+        </th>
+      <th style="text-align: left;vertical-align: top;width: 105pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Signature</span><br/>
+        <span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">签名</span><br/>
+        </th>
+      <th style="text-align: left;vertical-align: top;width: 80pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Date</span><br/>
+        <span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">日期</span><br/>
+        </th>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 85pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Prepared by：</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 121pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Product Manager</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 92pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Ya, Li</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 105pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: top;width: 80pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 85pt;height: 33pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Reviewed by：</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 121pt;height: 33pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">System Engineer</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 92pt;height: 33pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Bruce, Niu</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 105pt;height: 33pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: top;width: 80pt;height: 33pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 85pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Reviewed by：</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 121pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Engineering Manager</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 92pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Hanjiang, Ye</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 105pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: top;width: 80pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 85pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Reviewed by:</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 121pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Equipment BU Head</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 92pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Charlie, Zhu</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 105pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: top;width: 80pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 85pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Reviewed by:</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 121pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Service Manager</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 92pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Vivien, Deng</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 105pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: top;width: 80pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 85pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Reviewed by:</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 121pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">NPI Manager</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 92pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Evan Zhang</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 105pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: top;width: 80pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 85pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Reviewed by:</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 121pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">RA Supervisor</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 92pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Vicky Wang</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 105pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: top;width: 80pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 85pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Approved by:</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 121pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">R&amp;D Director</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 92pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Victor, Liu</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 105pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: top;width: 80pt;height: 34pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 85pt;height: 16pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: top;width: 121pt;height: 16pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: top;width: 92pt;height: 16pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: top;width: 105pt;height: 16pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: top;width: 80pt;height: 16pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+  </tbody>
+</table><p id="polarion_11">
+  <br/>
+</p><p id="polarion_12">
+  <span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Change History更改历史记录:</span>
+</p><table id="polarion_13" style="width: 482pt;margin-left: 0px;margin-right: auto;empty-cells: show;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <th style="text-align: left;vertical-align: top;width: 99pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Revision</span><br/>
+        <span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">版本</span><br/>
+        </th>
+      <th style="text-align: left;vertical-align: top;width: 177pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Change Description</span><br/>
+        <span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">更改描述</span><br/>
+        </th>
+      <th style="text-align: left;vertical-align: top;width: 92pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Prepared by</span><br/>
+        <span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">起草人</span><br/>
+        </th>
+      <th style="text-align: left;vertical-align: top;width: 113pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Effective Date</span><br/>
+        <span style="font-size: 14pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">生效日期</span><br/>
+        </th>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 99pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"> 
+        <div style="text-align: center;">
+          <span style="font-size: 12pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">A</span> 
+        </div>
+        </td>
+      <td style="vertical-align: top;width: 177pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 12pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Initial release</span><br/>
+        <span style="font-size: 12pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">初始发布</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 92pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 12pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Ya, Li<br/>
+          栗 亚</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 113pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 12pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Sep 12<sup>th</sup>, 2018 </span><br/>
+        <span style="font-size: 12pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">2018年9月12日</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 99pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: top;width: 177pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: top;width: 92pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: top;width: 113pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 99pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: top;width: 177pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: top;width: 92pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: top;width: 113pt;height: 22pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+  </tbody>
+</table><p id="polarion_14">
+  <br/>
+</p><div id="polarion_wiki macro name=page_break|uid=polarion_1" contentEditable="false"></div><div id="polarion_wiki macro name=toc"></div><div id="polarion_wiki macro name=page_break|uid=polarion_2" contentEditable="false"></div><h2 id="polarion_wiki macro name=module-workitem;params=id=NOVA-620"></h2><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-621"></h3><p id="polarion_15">
+  <br/>
+</p><p id="polarion_16">
+  <span style="font-family: Arial, Helvetica, sans-serif;">Target country: China</span>
+</p><p id="polarion_17">目标国家：中国</p><p id="polarion_18">
+  <br/>
+</p><p id="polarion_19">
+  <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">In recent years, the emerging markets in China such as private dental hospital and clinic are changing greatly every day mainly for that MoH already loosened up the limitation of opening private dental hospital and clinic. Many KOLs also think that the number of private dental hospitals and clinics will double or more in the coming 5 ~ 8 years. On the other hand, currently, more than 80% customers, especially small dental hospitals (below Grade ǁ) and private dental clinics are still using analog X-ray, which will be the main markets chance for Nova.</span>
+</p><p id="polarion_20">
+  <span style="font-size: 11pt;line-height: 1.5;">近年来，新兴市场诸如中国的私立口腔医院和诊所每天都在经历着巨变，主要因为卫生部已经放宽了开设私立医院和诊所的限制。许多关键意见人物也认为私立口腔医院和诊所的数量在未来的5~8年内将翻倍。另一方面，现在超过80%的客户，尤其是二级以下的小医院和私立诊所还在用着模拟X光机，这些将是Nova主要的商业机会。</span>
+</p><p id="polarion_21">
+  <br/>
+</p><p id="polarion_22">
+  <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">With Nova program Kavo China group is looking for growth in the emerging markets such as private dental hospital or clinic, as well as low-end existing markets like as Grade ǀ and ǁ dental public hospital, and winning market share in price sensitive developed markets with a product maintaining competitive price in the offering. </span>
+</p><p id="polarion_23">
+  <span style="font-size: 11pt;line-height: 1.5;">通过Nova项目，卡瓦集团在寻求私立医院和诊所这样的新兴市场，以及诸如一级和二级公立医院这样低端现有市场的增长，同时通过提供价格有竞争力的产品在价格敏感的发达市场赢得市场占有率</span>
+</p><p id="polarion_24">
+  <br/>
+</p><p id="polarion_25">
+  <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">Nova program delivers an intraoral X-ray system that is easy to install and use reliable and affordable yet providing adequate clinical performance for the users. </span>
+</p><p id="polarion_26">
+  <span style="font-size: 11pt;color: #000000;line-height: 1.5;">Nova项目将发布牙片机，它易安装、易使用，可靠和性价比高，同时提供充分的临床表现给用户。</span>
+</p><p id="polarion_27">
+  <br/>
+</p><p id="polarion_28">
+  <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;">The product will be made available for only one brand: Soredex. Adequate brand differentiation is needed to position the product according to the brands and to avoid direct price comparison between the brands. </span>
+</p><p id="polarion_29">
+  <span style="font-size: 11pt;color: #000000;line-height: 1.5;">产品将只提供1个品牌：Soredex。充分的品牌差异是为了根据品牌定位产品，并且避免品牌间直接的价格比较</span>
+</p><p id="polarion_30">
+  <span style="color: #000000;"> </span>
+</p><p id="polarion_31">
+  <br/>
+</p><p id="polarion_32">
+  <br/>
+</p><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-622"></h3><p id="polarion_33">
+  <br/>
+</p><p id="polarion_34">
+  <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">A targeted Nova customer has a small dental office running with a limited ability or willingness to invest in more than strictly required. </span>
+</p><p id="polarion_35">
+  <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">In the developed markets, the customer is typically running a solo office with private money. but in the emerging markets the customer is transitioning from analog to digital, Nova provides a cost-efficient solution. Nova provides good clinical image quality for basic intraoral radiography including bitewing, periapical and occlusal projection images. </span>
+</p><p id="polarion_36">
+  <br/>
+</p><p id="polarion_37">
+  <span style="font-size: 11pt;line-height: 1.5;">Nova的目标客户，有一间牙科办公室，他不愿意或者不能投资得更多。</span>
+</p><p id="polarion_38">
+  <span style="font-size: 11pt;line-height: 1.5;">在发达市场，客户通常是典型地运营一间自负盈亏得办公室，但是在新兴市场客户正在从模拟向数字转变，Nova提供了一个高性价比的解决方案。Nova对于基本的口内放射提供良好的临床图像质量，它包括：咬翼、根尖和咬合等等。</span>
+</p><p id="polarion_39">
+  <br/>
+</p><h2 id="polarion_wiki macro name=module-workitem;params=id=NOVA-623"></h2><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-624"></h3><p id="polarion_40">
+  <br/>
+</p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-625"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-626"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-627"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-628"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-629"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-630"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-631"></div><p id="polarion_41">
+  <br/>
+</p><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-632"></h3><p id="polarion_42">
+  <br/>
+</p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1058"></div><p id="polarion_50" style="margin-left: 40px;">
+  <br/>
+</p><p id="polarion_51">
+  <br/>
+</p><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-633"></h3><p id="polarion_52">
+  <br/>
+</p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-634"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-635"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-636"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-637"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-638"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-639"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-640"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-641"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-642"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-643"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-644"></div><p id="polarion_53">
+  <br/>
+</p><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-645"></h3><p id="polarion_54">
+  <br/>
+</p><p id="polarion_55">
+  <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">The customer has decided to purchase a Nova and has received the delivery package at the place of use. The user, after ensuring that there is no damage during the transportation, unpacks the product using only household tools (knife, scissors). With the information inside the delivery package he is able to place the intraoral X-ray unit in an appropriate place, and ensure that the system is ready for the use by the operator(s).</span>
+</p><p id="polarion_56">
+  <span style="font-size: 11pt;line-height: 1.5;">客户决定购买Nova，并在使用地收到交付包。用户在确认运输过程中没有损害之后，仅仅使用家用工具（刀、剪刀）打开产品包装。根据包装箱内提供的信息，他能够把牙片机放到恰当的地方，并确定设备可以用于操作者使用。</span>
+</p><p id="polarion_57">
+  <br/>
+</p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-646"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-647"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-648"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-649"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-650"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-651"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-652"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-653"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-654"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-655"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-656"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-657"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-658"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-659"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-660"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-661"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-662"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-663"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-664"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-665"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-666"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-667"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-668"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-669"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-670"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-671"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-672"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-673"></div><p id="polarion_58">
+  <br/>
+  <br/>
+</p>]]></field>
+    <field id="outlineNumbering">
+        <struct>
+            <item id="prefix">MRS</item>
+        </struct>
+    </field>
+    <field id="renderingLayouts">
+        <list>
+            <struct>
+                <item id="label">Market Requirement with Title</item>
+                <item id="layouter">section</item>
+                <item id="properties">
+                    <list>
+                        <struct>
+                            <item id="key">fieldsAtStart</item>
+                            <item id="value">id</item>
+                        </struct>
+                        <struct>
+                            <item id="key">fieldsAtEnd</item>
+                            <item id="value">priority</item>
+                        </struct>
+                        <struct>
+                            <item id="key">fieldsAtEndAsTable</item>
+                            <item id="value">true</item>
+                        </struct>
+                        <struct>
+                            <item id="key">hidden</item>
+                        </struct>
+                        <struct>
+                            <item id="key">noPageBreak</item>
+                        </struct>
+                        <struct>
+                            <item id="key">sidebarWorkItemFields</item>
+                            <item id="value">priority,status</item>
+                        </struct>
+                        <struct>
+                            <item id="key">typeNotInProject</item>
+                        </struct>
+                    </list>
+                </item>
+                <item id="type">marketRequirement</item>
+            </struct>
+        </list>
+    </field>
+    <field id="status">published</field>
+    <field id="structureLinkRole">parent</field>
+    <field id="title">MRS_Nova_20180912</field>
+    <field id="type">reqspecification</field>
+    <field id="usesOutlineNumbering">true</field>
+    <field id="version" type="string">A</field>
+</module>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="author">Hualin.Peng</field>
+    <field id="classificationForAll" type="enum:classificationForAll">software</field>
+    <field id="created">2020-04-15 15:47:27.876 +0800</field>
+    <field id="description" text-type="text/html">主机正常工作</field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">90.0</field>
+    <field id="severity">basic</field>
+    <field id="status">draft</field>
+    <field id="testSteps" type="struct:TestSteps">
+        <struct>
+            <item id="keys">
+                <list>
+                    <item>description</item>
+                    <item>expectedResult</item>
+                </list>
+            </item>
+            <item id="steps">
+                <list>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">长按成人/儿童按键</item>
+                                <item text-type="text/html"><![CDATA[主机进入设置第一级菜单，显示如下：<br/>
+        <img src="attachment:2-screenshot-20200415-155640.png"/><br/>
+      ]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">选择事件记录并按下确认键</item>
+                                <item text-type="text/html"><![CDATA[界面进入事件记录的子界面。显示图如下：<br/>
+        <img src="attachment:3-screenshot-20200415-155641.png"/>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">查看选中参数设定时的界面变化</item>
+                                <item text-type="text/html"><![CDATA[数字设定的框高亮且显示绿色。具体如图：<br/>
+        <img src="attachment:4-screenshot-20200415-155641.png"/>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">短按成人/儿童按键确认</item>
+                                <item text-type="text/html"><![CDATA[界面显示如下：<br/>
+        <img src="attachment:5-screenshot-20200415-155641.png"/>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html"><![CDATA[选中休眠时间进行调节时，查看主机的显示<br/>
+        （MaXray的主机）]]></item>
+                                <item text-type="text/html"><![CDATA[界面显示如下：<br/>
+        <img src="attachment:6-screenshot-20200415-155641.png" style="width: 200px;height: 150px;"/>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">查看MaXray的主机的DAP显示</item>
+                                <item text-type="text/html"><![CDATA[任何界面都不显示DAP的值：<br/>
+        <img src="attachment:7-screenshot-20200415-160059.png" style="width: 201px;height: 150px;"/><br/>
+        <img src="attachment:8-screenshot-20200415-160100.png" style="width: 206px;height: 155px;"/><br/>
+        <img src="attachment:9-screenshot-20200415-160100.png" style="width: 206px;height: 155px;"/>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">检查系统重置的显示</item>
+                                <item text-type="text/html"><![CDATA[界面显示如下：<br/>
+        <img src="attachment:10-screenshot-20200415-160100.png"/>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="testType" type="enum:testtype">manual</field>
+    <field id="title">界面风格显示</field>
+    <field id="type">testcase</field>
+</work-item>

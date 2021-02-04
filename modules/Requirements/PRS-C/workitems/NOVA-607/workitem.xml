@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+        </list>
+    </field>
+    <field id="assignee">admin</field>
+    <field id="author">Bruce.Niu</field>
+    <field id="created">2018-10-22 17:13:58.554 +0800</field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="prsSubRequirement" multi="true" type="enum:subrequirement">
+        <list>
+            <item>ee</item>
+            <item>fw</item>
+            <item>me</item>
+        </list>
+    </field>
+    <field id="prsType" type="enum:prstype">function</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="title">2.5mA机型的主机应能独立工作，参数的设置和查看在人机界面（包含薄膜开关面板，液晶显示）完成；内含锂电池，充电接口和曝光信号接口。</field>
+    <field id="type">systemRequirement</field>
+</work-item>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hualin.Peng</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Leo.Liu</field>
+    <field id="created">2019-12-18 10:01:38.461 +0800</field>
+    <field id="description" text-type="text/html">当系统具备曝光条件时，进入就绪状态。注：演示模式，系统报错，参数设置有误时，禁止曝光。</field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="type">softwareRequirement</field>
+</work-item>

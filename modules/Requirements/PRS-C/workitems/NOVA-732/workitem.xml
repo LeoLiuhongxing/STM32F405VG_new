@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+        </list>
+    </field>
+    <field id="assignee">admin</field>
+    <field id="author">admin</field>
+    <field id="created">2018-11-06 14:35:10.575 +0800</field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-669</item>
+            </struct>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-671</item>
+            </struct>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-670</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="prsSubRequirement" multi="true" type="enum:subrequirement">
+        <list>
+            <item>me</item>
+            <item>ee</item>
+        </list>
+    </field>
+    <field id="prsType" type="enum:prstype">function</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="title">电池应是易拆卸的，在不需要特殊工具的情况下，客户能自行更换。</field>
+    <field id="type">systemRequirement</field>
+</work-item>

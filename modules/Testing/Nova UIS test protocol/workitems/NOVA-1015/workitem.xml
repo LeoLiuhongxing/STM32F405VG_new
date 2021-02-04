@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+            <struct>
+                <item id="status">waiting</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Hualin.Peng</field>
+    <field id="classificationForAll" type="enum:classificationForAll">system</field>
+    <field id="created">2019-12-03 17:21:39.313 +0800</field>
+    <field id="description" text-type="text/html">主机开机正常且无任何错误显示</field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">33.0</field>
+    <field id="severity">basic</field>
+    <field id="status">inReview</field>
+    <field id="testSteps" type="struct:TestSteps">
+        <struct>
+            <item id="keys">
+                <list>
+                    <item>description</item>
+                    <item>expectedResult</item>
+                </list>
+            </item>
+            <item id="steps">
+                <list>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">长按电源开/关按键3秒</item>
+                                <item text-type="text/html">主机正常开机且无任何错误显示</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">查看主机的界面字体、界面显示</item>
+                                <item text-type="text/html"><![CDATA[主机正常开机且无任何错误显示且具体如下：<br/>
+        背景色：黑色<br/>
+        字体：Arial<br/>
+        数字字号：12pt<br/>
+        单位字号：10pt<br/>
+        线宽：1pt]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html"><![CDATA[查看图标状态的显示<br/>
+        电池电量的电压参考如下表格：<br/>
+        <img title="14-1111.png" src="workitemimg:14-1111.png" style="width: 268px;height: 99px;" data-lastmodified="2020-02-21T16:43:21.939+08:00"/>]]></item>
+                                <item text-type="text/html"><![CDATA[电池电量、儿童模式、成人模式、模拟模式及数字模式的显示如下：<br/>
+        电池电量：<img title="13-电量0.png" src="workitemimg:13-%E7%94%B5%E9%87%8F0.png" style="max-width: 750px;" data-lastmodified="2019-12-04T13:14:08.180+08:00"/><img title="12-电量4.png" src="workitemimg:12-%E7%94%B5%E9%87%8F4.png" style="max-width: 750px;" data-lastmodified="2019-12-04T13:14:50.330+08:00"/><img title="11-电量3.png" src="workitemimg:11-%E7%94%B5%E9%87%8F3.png" style="max-width: 750px;" data-lastmodified="2019-12-04T13:14:50.365+08:00"/><img title="10-电量2.png" src="workitemimg:10-%E7%94%B5%E9%87%8F2.png" style="max-width: 750px;" data-lastmodified="2019-12-04T13:14:50.458+08:00"/><img title="9-电量1.png" src="workitemimg:9-%E7%94%B5%E9%87%8F1.png" style="max-width: 750px;" data-lastmodified="2019-12-04T13:14:50.512+08:00"/><br/>
+        儿童模式：<img title="8-儿童_normal.png" src="workitemimg:8-%E5%84%BF%E7%AB%A5_normal.png" style="max-width: 750px;" data-lastmodified="2019-12-04T13:17:31.138+08:00"/><img title="7-儿童_active.png" src="workitemimg:7-%E5%84%BF%E7%AB%A5_active.png" style="max-width: 750px;" data-lastmodified="2019-12-04T13:17:31.188+08:00"/><br/>
+        成人模式：<img title="6-成人_normal.png" src="workitemimg:6-%E6%88%90%E4%BA%BA_normal.png" style="max-width: 750px;" data-lastmodified="2019-12-04T13:18:59.969+08:00"/><img title="5-成人_active.png" src="workitemimg:5-%E6%88%90%E4%BA%BA_active.png" style="max-width: 750px;" data-lastmodified="2019-12-04T13:19:00.014+08:00"/><br/>
+        模拟模式：<img title="4-模拟模式_normal.png" src="workitemimg:4-%E6%A8%A1%E6%8B%9F%E6%A8%A1%E5%BC%8F_normal.png" style="max-width: 750px;" data-lastmodified="2019-12-04T13:19:45.301+08:00"/><img title="3-模拟模式_active.png" src="workitemimg:3-%E6%A8%A1%E6%8B%9F%E6%A8%A1%E5%BC%8F_active.png" style="max-width: 750px;" data-lastmodified="2019-12-04T13:19:45.342+08:00"/><br/>
+        数字模式：<img title="2-数字模式_normal.png" src="workitemimg:2-%E6%95%B0%E5%AD%97%E6%A8%A1%E5%BC%8F_normal.png" style="max-width: 750px;" data-lastmodified="2019-12-04T13:20:56.204+08:00"/><img title="1-数字模式_active.png" src="workitemimg:1-%E6%95%B0%E5%AD%97%E6%A8%A1%E5%BC%8F_active.png" style="max-width: 750px;" data-lastmodified="2019-12-04T13:20:56.254+08:00"/>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">开启MaXray主机</item>
+                                <item text-type="text/html">主机正常开启</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">查看界面显示</item>
+                                <item text-type="text/html"><![CDATA[界面显示如下：<br/>
+        <img src="attachment:1-screenshot-20200415-153714.png" style="width: 66px;height: 50px;"/>]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="testType" type="enum:testtype">manual</field>
+    <field id="title">前提条件:</field>
+    <field id="type">testcase</field>
+</work-item>

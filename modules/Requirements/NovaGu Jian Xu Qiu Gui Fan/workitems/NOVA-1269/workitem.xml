@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Bruce.Niu</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Qingchun.Zhong</field>
+    <field id="created">2020-03-18 10:01:03.155 +0800</field>
+    <field id="description" text-type="text/html"><![CDATA[<table>
+  <tbody>
+    <tr>
+      <td colspan="2" style="width: 460.6pt;height: 16.85pt;border: 1pt solid windowtext;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> [FWR 000011]<br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="width: 118.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 需求优先级 / Priority<br/>
+        </td>
+      <td style="width: 341.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> <span style="font-size: 8pt;line-height: 1.5;"> 高</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="width: 118.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> <span style="font-size: 12pt;line-height: 1.5;">来源 / Source field </span><br/>
+        </td>
+      <td style="width: 341.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> <span style="font-size: 12pt;line-height: 1.5;"> Nova-724</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="width: 460.6pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> 需求描述 / Description:禁止曝光<span style="font-size: 12pt;line-height: 1.5;"><br/>
+                                                                               <br/>
+                  1. 只能在就绪状态下曝光</span><br/>
+        2. 演示模式时禁止曝光；<br/>
+        3．错误状态时禁止曝光；<br/>
+        <span style="font-size: 12pt;line-height: 1.5;">4.未接电池时禁止曝光</span><br/>
+        </td>
+    </tr>
+  </tbody>
+</table>]]></field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">major</field>
+    <field id="status">approved</field>
+    <field id="type">softwareRequirement</field>
+</work-item>

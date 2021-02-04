@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+        </list>
+    </field>
+    <field id="assignee">Bruce.Niu</field>
+    <field id="author">admin</field>
+    <field id="benchmark" text-type="text/html" type="text/html">&lt;p&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;color: #0000FF;"&gt;None&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;color: #0000FF;"&gt;无&lt;/span&gt;&lt;/p&gt;</field>
+    <field id="created">2018-10-23 13:09:08.318 +0800</field>
+    <field id="customer" text-type="text/html" type="text/html">&lt;p&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;color: #0000FF;"&gt;Public:50%&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;color: #0000FF;"&gt;Private:100%&lt;/span&gt;&lt;/p&gt;</field>
+    <field id="description" text-type="text/html">&lt;p&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;Nova can be used as fixed type in X-ray room, also can be used as handy type anywhere according to customer's favorite&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 9pt;"&gt;N&lt;/span&gt;&lt;span style="font-size: 9pt;"&gt;o&lt;/span&gt;&lt;span style="font-size: 9pt;"&gt;va可以根据客户的喜好，在铅房内作为固定式使用，也可以在任何地方作为手持式使用&lt;/span&gt;&lt;/p&gt;</field>
+    <field id="level" type="enum:priority">33.0</field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="title">MRS 1-1</field>
+    <field id="type">marketRequirement</field>
+</work-item>

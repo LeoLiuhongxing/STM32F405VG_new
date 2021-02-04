@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+        </list>
+    </field>
+    <field id="assignee">admin</field>
+    <field id="author">Bruce.Niu</field>
+    <field id="created">2018-11-05 14:06:28.408 +0800</field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-650</item>
+            </struct>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-652</item>
+            </struct>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-654</item>
+            </struct>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-655</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="prsSubRequirement" multi="true" type="enum:subrequirement">
+        <list>
+            <item>ee</item>
+            <item>fw</item>
+        </list>
+    </field>
+    <field id="prsType" type="enum:prstype">function</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="title">系统应提供数字和模拟模式选择，成人和儿童模式的选择以及牙位（上下切牙，尖牙，磨牙及其咬翼和咬合）的选择。</field>
+    <field id="type">systemRequirement</field>
+</work-item>

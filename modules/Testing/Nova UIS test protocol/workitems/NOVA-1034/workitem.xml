@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+            <struct>
+                <item id="status">waiting</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Hualin.Peng</field>
+    <field id="classificationForAll" type="enum:classificationForAll">system</field>
+    <field id="created">2019-12-05 10:51:22.217 +0800</field>
+    <field id="description" text-type="text/html">主机正常工作</field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">33.0</field>
+    <field id="severity">basic</field>
+    <field id="status">inReview</field>
+    <field id="testSteps" type="struct:TestSteps">
+        <struct>
+            <item id="keys">
+                <list>
+                    <item>description</item>
+                    <item>expectedResult</item>
+                </list>
+            </item>
+            <item id="steps">
+                <list>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html"> 长按数字/模拟按键3秒</item>
+                                <item text-type="text/html"><![CDATA[ 蜂鸣器响一声<br/>
+        系统进入演示模式]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">查看演示模式的界面显示</item>
+                                <item text-type="text/html"><![CDATA[logo电源灯常亮 ，系统状态指示灯熄灭<br/>
+        界面显示“演示模式”字样]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">选择儿童模式、成人模式、上磨牙位并检查系统显示</item>
+                                <item text-type="text/html"><![CDATA[儿童模式图标、成人模式图标高亮<br/>
+        上磨牙的绿灯亮起]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按一下曝光键</item>
+                                <item text-type="text/html">系统禁止曝光，无射线产生</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">长按数字/模拟按键3秒</item>
+                                <item text-type="text/html"><![CDATA[蜂鸣器响一次<br/>
+        系统退出演示模式]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按下曝光手札</item>
+                                <item text-type="text/html">系统正常曝光</item>
+                            </list>
+                        </item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="testType" type="enum:testtype">manual</field>
+    <field id="title">前提条件：</field>
+    <field id="type">testcase</field>
+</work-item>

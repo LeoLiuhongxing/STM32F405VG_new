@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document-workflow-signature>
+    <field id="signatureState">done</field>
+    <field id="signatures">
+        <list>
+            <struct>
+                <item id="signedBy">Bruce.Niu</item>
+                <item id="signedRevision">42285</item>
+                <item id="verdict">signed</item>
+                <item id="verdictComment">Requirements#PRS-C#1</item>
+                <item id="verdictTime">2020-03-13 13:45:17.225 +0800</item>
+            </struct>
+        </list>
+    </field>
+    <field id="targetStatusId">published</field>
+    <field id="transitionDataRevision">42290</field>
+</document-workflow-signature>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Henry.Guo</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Bruce.Niu</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Hualin.Peng</field>
+    <field id="classificationForAll" type="enum:classificationForAll">software</field>
+    <field id="created">2020-02-18 10:22:11.679 +0800</field>
+    <field id="description" text-type="text/html">&lt;span style="font-weight: bold;"&gt;前提条件：&lt;/span&gt;&lt;br/&gt;主机能正常开启和工作</field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">verifies</item>
+                <item id="workItem">NOVA-1067</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">basic</field>
+    <field id="status">approved</field>
+    <field id="testSteps" type="struct:TestSteps">
+        <struct>
+            <item id="keys">
+                <list>
+                    <item>description</item>
+                    <item>expectedResult</item>
+                </list>
+            </item>
+            <item id="steps">
+                <list>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">查看指导说明书</item>
+                                <item text-type="text/html">系统支持胶片、影像板和数字传感器三种成像方式</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按开关键开机</item>
+                                <item text-type="text/html"><![CDATA[主机正常开机且无任何错误显示<br/>
+        界面显示正常无误]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按下数字/模拟按键</item>
+                                <item text-type="text/html"><![CDATA[界面显示数字/胶片两个模式且其中一种被选中时图标高亮<br/>
+        如：选中数字时，数字图标高亮，胶片图标置灰]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">再按一下数字/模拟按键</item>
+                                <item text-type="text/html">胶片模式被选中且图标高亮，数字图标置灰</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">长按成人/儿童模式按键（3秒）</item>
+                                <item text-type="text/html"><![CDATA[界面进入设置界面，显示如下：<br/>
+        系统显示<br/>
+        事件记录<br/>
+        参数设定<br/>
+        系统重置]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按上升/下调按键选中参数设定</item>
+                                <item text-type="text/html">参数设定被选中且字体高亮</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">短按一下成人/儿童按键</item>
+                                <item text-type="text/html"><![CDATA[界面进入参数设定界面且显示如下：<br/>
+        休眠时间<br/>
+        DAP系数<br/>
+        数字模拟选择（牙片宝/传感器）<br/>
+        首次进入时牙片宝默认被选择]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">选中数字模拟选择并按上升/下调按键</item>
+                                <item text-type="text/html">牙片宝/传感器两种模式可被任意选择</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html"><![CDATA[选三种模式曝光一次并检查图片质量<br/>
+        曝光事件设置1秒]]></item>
+                                <item text-type="text/html">图片清晰可见且无任何错误显示</item>
+                            </list>
+                        </item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="testType" type="enum:testtype">manual</field>
+    <field id="title">Nova成像</field>
+    <field id="type">testcase</field>
+</work-item>

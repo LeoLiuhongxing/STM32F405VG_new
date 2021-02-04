@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+        </list>
+    </field>
+    <field id="assignee">Bruce.Niu</field>
+    <field id="author">admin</field>
+    <field id="benchmark" text-type="text/html" type="text/html">&lt;p&gt;&lt;br&gt;&lt;/p&gt;</field>
+    <field id="created">2018-10-23 13:09:08.451 +0800</field>
+    <field id="customer" text-type="text/html" type="text/html">&lt;p&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;color: #0000FF;"&gt;Public:100%&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;color: #0000FF;"&gt;Private:100%&lt;/span&gt;&lt;/p&gt;</field>
+    <field id="description" text-type="text/html"><![CDATA[<span style="font-size: 9pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Nova provides a seat for patient, while patient sitting nurse</span><span style="font-size: 9pt;line-height: 1.5;"> </span><span style="font-size: 9pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">take exposure for him. The cushion color should be compatible with Soredex and KaVo brand</span><br/>
+<span style="font-size: 9pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Nova给病人提供一个座位，病人坐下时护士为其拍片。坐垫颜色应当与Soredex和卡瓦品牌相符</span><br/>]]></field>
+    <field id="level" type="enum:priority">33.0</field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="title">MRS 1-6</field>
+    <field id="type">marketRequirement</field>
+</work-item>

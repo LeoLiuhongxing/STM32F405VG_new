@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+        </list>
+    </field>
+    <field id="assignee">Bruce.Niu</field>
+    <field id="author">admin</field>
+    <field id="created">2018-10-23 13:09:08.548 +0800</field>
+    <field id="description" text-type="text/html">&lt;p&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;Nova is targeted for price sensitive users running small dental offices such as private dental clinics or low-end public dental hospital like Grade ǀ &amp;amp; Grade ǁ.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 9pt;"&gt;Nova定位于价格敏感的用户，他们开着私立牙科诊所或诸如一级和二级的低端公立医院&lt;/span&gt;&lt;/p&gt;</field>
+    <field id="level" type="enum:priority">33.0</field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="title">MRS 3-1</field>
+    <field id="type">marketRequirement</field>
+</work-item>

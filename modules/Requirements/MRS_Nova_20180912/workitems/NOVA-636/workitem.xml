@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+        </list>
+    </field>
+    <field id="assignee">Bruce.Niu</field>
+    <field id="author">admin</field>
+    <field id="created">2018-10-23 13:09:08.593 +0800</field>
+    <field id="description" text-type="text/html"><![CDATA[<span style="font-size: 9pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">The industrial design of the Soredex product shall follow Soredex industrial design guide lines, the industrial design of  the KaVo product shall follow KaVo industrial design guide lines, DAP item in the LCD.</span><br/>
+<span style="font-size: 9pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Soredex产品的工业设计应当遵循Soredex工业设计的准则，KaVo产品的工业设计应当遵循KaVo工业设计的准则，在液晶显示屏有DAP参数</span><br/>
+<br/>]]></field>
+    <field id="level" type="enum:priority">33.0</field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="title">MRS 3-3</field>
+    <field id="type">marketRequirement</field>
+</work-item>

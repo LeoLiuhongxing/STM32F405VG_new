@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document-workflow-signature>
+    <field id="signatureState">pending</field>
+    <field id="signatures">
+        <list>
+            <struct>
+                <item id="signedBy">Jerry.Wei</item>
+                <item id="verdict">invited</item>
+            </struct>
+            <struct>
+                <item id="signedBy">Yonglin.Chen</item>
+                <item id="verdict">invited</item>
+            </struct>
+        </list>
+    </field>
+    <field id="targetStatusId">published</field>
+</document-workflow-signature>

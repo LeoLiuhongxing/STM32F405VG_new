@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module>
+    <field id="assignee1" type="enum:@user[project_assignable]">Bruce.Niu</field>
+    <field id="author">Bruce.Niu</field>
+    <field id="created">2020-03-09 10:18:53.917 +0800</field>
+    <field id="headingSidebarFields">severity,status</field>
+    <field id="homePageContent" text-type="text/html"><![CDATA[<table id="polarion_1" style="width: 496pt;margin-left: 0px;margin-right: auto;empty-cells: show;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <th style="background-color: #D9D9D9;text-align: left;vertical-align: middle;width: 135pt;height: 37pt;border: 1px solid #000000;">文件编号&amp;版本<br/>
+        Document No. &amp; Ver.<br/>
+        </th>
+      <th style="text-align: center;vertical-align: middle;width: 362pt;height: 37pt;border: 1px solid #000000;"><span style="color: #3333FF;">PMF-RND015-010 Rev.C</span><br/>
+        </th>
+    </tr>
+    <tr>
+      <td style="background-color: #D9D9D9;vertical-align: middle;width: 135pt;height: 37pt;border: 1px solid #000000;">项目名称<br/>
+        Project Name<br/>
+        </td>
+      <td style="text-align: center;vertical-align: middle;width: 362pt;height: 37pt;border: 1px solid #000000;"><span style="font-weight: bold;color: #3333FF;">Nova</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="background-color: #D9D9D9;vertical-align: middle;width: 135pt;height: 37pt;border: 1px solid #000000;">产品名称<br/>
+        Product Name<br/>
+        </td>
+      <td style="text-align: center;vertical-align: middle;width: 362pt;height: 37pt;border: 1px solid #000000;"><span style="font-weight: bold;color: #3333FF;">牙科X射线机 （Nova-T)</span><br/>
+        </td>
+    </tr>
+  </tbody>
+</table><p id="polarion_2">
+  <br/>
+</p><p id="polarion_3">
+  <span style="text-decoration: underline;font-family: Arial, Helvetica, sans-serif;">批准列表Approval List：</span>
+</p><table id="polarion_4" style="width: 496pt;margin-left: 0px;margin-right: auto;empty-cells: show;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <th style="background-color: #D9D9D9;text-align: left;vertical-align: middle;width: 100pt;height: 34pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">批准</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">Approval</span><br/>
+        </th>
+      <th style="background-color: #D9D9D9;text-align: left;vertical-align: middle;width: 127pt;height: 34pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">职能</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">Function</span><br/>
+        </th>
+      <th style="background-color: #D9D9D9;text-align: left;vertical-align: middle;width: 92pt;height: 34pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">名称(打印)</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">Name(Print)</span><br/>
+        </th>
+      <th style="background-color: #D9D9D9;text-align: left;vertical-align: middle;width: 85pt;height: 34pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">签名</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">Signature</span><br/>
+        </th>
+      <th style="background-color: #D9D9D9;text-align: left;vertical-align: middle;width: 92pt;height: 34pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">日期</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">Date</span><br/>
+        </th>
+    </tr>
+    <tr>
+      <td style="vertical-align: middle;width: 100pt;height: 34pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">起草人</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">Prepared by：</span><br/>
+        </td>
+      <td style="vertical-align: middle;width: 127pt;height: 34pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">系统工程师</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">System Engineer</span><br/>
+        </td>
+      <td style="text-align: center;vertical-align: middle;width: 92pt;height: 34pt;border: 1px solid #000000;">牛    波<br/>
+        </td>
+      <td style="vertical-align: middle;width: 85pt;height: 34pt;border: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: middle;width: 92pt;height: 34pt;border: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: middle;width: 100pt;height: 33pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">评审</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">Reviewed by：</span><br/>
+        </td>
+      <td style="vertical-align: middle;width: 127pt;height: 33pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">设计工程负责人</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">Design Engineering Head</span><br/>
+        </td>
+      <td style="text-align: center;vertical-align: middle;width: 92pt;height: 33pt;border: 1px solid #000000;">叶汉江<br/>
+        </td>
+      <td style="vertical-align: middle;width: 85pt;height: 33pt;border: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: middle;width: 92pt;height: 33pt;border: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: middle;width: 100pt;height: 34pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;background-color: #FFFF00;">评审</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;background-color: #FFFF00;">Reviewed by：</span><br/>
+        </td>
+      <td style="vertical-align: middle;width: 127pt;height: 34pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;background-color: #FFFF00;">软件经理</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;background-color: #FFFF00;">Software Manager</span><br/>
+        </td>
+      <td style="text-align: center;vertical-align: middle;width: 92pt;height: 34pt;border: 1px solid #000000;">N.A<br/>
+        </td>
+      <td style="text-align: center;vertical-align: middle;width: 85pt;height: 34pt;border: 1px solid #000000;">N.A<br/>
+        </td>
+      <td style="vertical-align: middle;width: 92pt;height: 34pt;border: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: middle;width: 100pt;height: 34pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">评审</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">Reviewed by：</span><br/>
+        </td>
+      <td style="vertical-align: middle;width: 127pt;height: 34pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">产品经理</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">Product Manager</span><br/>
+        </td>
+      <td style="text-align: center;vertical-align: middle;width: 92pt;height: 34pt;border: 1px solid #000000;">栗    亚<br/>
+        </td>
+      <td style="vertical-align: middle;width: 85pt;height: 34pt;border: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: middle;width: 92pt;height: 34pt;border: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: middle;width: 100pt;height: 34pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">评审</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">Reviewed by：</span><br/>
+        </td>
+      <td style="vertical-align: middle;width: 127pt;height: 34pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">研发质量经理</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">RND QA Manager</span><br/>
+        </td>
+      <td style="text-align: center;vertical-align: middle;width: 92pt;height: 34pt;border: 1px solid #000000;">李庆学<br/>
+        </td>
+      <td style="vertical-align: middle;width: 85pt;height: 34pt;border: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: middle;width: 92pt;height: 34pt;border: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: middle;width: 100pt;height: 34pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">评审</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">Reviewed by：</span><br/>
+        </td>
+      <td style="vertical-align: middle;width: 127pt;height: 34pt;border: 1px solid #000000;">法规<br/>
+        RA<br/>
+        </td>
+      <td style="text-align: center;vertical-align: middle;width: 92pt;height: 34pt;border: 1px solid #000000;">王冬梅<br/>
+        </td>
+      <td style="vertical-align: middle;width: 85pt;height: 34pt;border: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: middle;width: 92pt;height: 34pt;border: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: middle;width: 100pt;height: 34pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">批准</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">Approved by:</span><br/>
+        </td>
+      <td style="vertical-align: middle;width: 127pt;height: 34pt;border: 1px solid #000000;">研发副总裁<br/>
+        RND VP<br/>
+        </td>
+      <td style="text-align: center;vertical-align: middle;width: 92pt;height: 34pt;border: 1px solid #000000;">刘文志<br/>
+        </td>
+      <td style="vertical-align: middle;width: 85pt;height: 34pt;border: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: middle;width: 92pt;height: 34pt;border: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+  </tbody>
+</table><p id="polarion_5">
+  <span style="font-family: Arial, Helvetica, sans-serif;background-color: #FFFF00;">*仅当产品有软件需求时，软件经理需要参与评审。</span>
+</p><p id="polarion_6">
+  <span style="text-decoration: underline;font-family: Arial, Helvetica, sans-serif;">更改历史记录Change History:</span>
+</p><table id="polarion_7" style="width: 496pt;margin-left: 0px;margin-right: auto;empty-cells: show;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <th style="background-color: #D9D9D9;text-align: left;vertical-align: top;width: 71pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">版本</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">Revision</span><br/>
+        </th>
+      <th style="background-color: #D9D9D9;text-align: left;vertical-align: top;width: 248pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">更改描述</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">Change Description</span><br/>
+        </th>
+      <th style="background-color: #D9D9D9;text-align: left;vertical-align: top;width: 92pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">起草人</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">Prepared by</span><br/>
+        </th>
+      <th style="background-color: #D9D9D9;text-align: left;vertical-align: top;width: 85pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">修订日期</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">Change Date</span><br/>
+        </th>
+    </tr>
+    <tr>
+      <td style="text-align: center;vertical-align: top;width: 71pt;height: 22pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">A</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 248pt;height: 22pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">首次发行</span><br/>
+        </td>
+      <td style="text-align: center;vertical-align: top;width: 92pt;height: 22pt;border: 1px solid #000000;">牛  波<br/>
+        </td>
+      <td style="vertical-align: top;width: 85pt;height: 22pt;border: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;vertical-align: top;width: 71pt;height: 22pt;border: 1px solid #000000;">B<br/>
+        </td>
+      <td style="vertical-align: top;width: 248pt;height: 22pt;border: 1px solid #000000;">NOVA-722 黑底白字更改为黑底黄字<br/>
+        NOVA-601，617，731修改参数<br/>
+        NOVA-716 增加+/-3.0mm要求<br/>
+        NOVA-706 修改曝光时间范围和步长<br/>
+        NOVA-707 修改电流偏差为20%<br/>
+        NOVA-710 修改电池规格<br/>
+        NOVA-690 删除<br/>
+        NOVA-676 删除<br/>
+        NOVA-717 删除<br/>
+        NOVA-702 增加噪声要求<br/>
+        NOVA-705 增加储存要求<br/>
+        NOVA-615 新增<br/>
+        NOVA-909 新增<br/>
+        </td>
+      <td style="text-align: center;vertical-align: top;width: 92pt;height: 22pt;border: 1px solid #000000;">牛  波<br/>
+        </td>
+      <td style="vertical-align: top;width: 85pt;height: 22pt;border: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;vertical-align: top;width: 71pt;height: 22pt;border: 1px solid #000000;">C<br/>
+        </td>
+      <td style="vertical-align: top;width: 248pt;height: 22pt;border: 1px solid #000000;">修改 695，698，608，610，693，722，700，710，682，681，719<br/>
+        删除 696，697，720，679，691，718，733<br/>
+        新增 1251，1252，1253，1254，1256<br/>
+        </td>
+      <td style="text-align: center;vertical-align: top;width: 92pt;height: 22pt;border: 1px solid #000000;">牛  波<br/>
+        </td>
+      <td style="vertical-align: top;width: 85pt;height: 22pt;border: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+  </tbody>
+</table><p id="polarion_8">
+  <span style="font-size: 9pt;line-height: 1.5;">（本模板编号：Form No. Form QSP-0031L Rev. E）</span>
+</p><p id="polarion_9">
+  <br/>
+</p><p id="polarion_10">
+  <br/>
+</p><div id="polarion_wiki macro name=toc"></div><p id="polarion_11">
+  <br/>
+</p><h2 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1219"></h2><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1220"></h3><p id="polarion_12">
+  <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">本文档通过对市场需求规范的转化，根据法规和技术标准的要求、可用性要求和风险分析的结果，创建的产品需求规范（PRS），作为产品设计开发输入的文档。</span>
+</p><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1221"></h3><p id="polarion_13">
+  <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">本文档适用于Nova项目的Nova-T产品。</span>
+</p><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1222"></h3><table id="polarion_14" style="margin-left: 0px;margin-right: auto;empty-cells: show;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <th style="text-align: left;vertical-align: top;width: 21pt;border: 1px solid #000000;"><br/>
+        </th>
+      <th style="text-align: left;vertical-align: top;width: 120pt;border: 1px solid #000000;"><span style="font-weight: bold;font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">文档编号</span><br/>
+        </th>
+      <th style="text-align: left;vertical-align: top;width: 213pt;border: 1px solid #000000;"><span style="font-weight: bold;font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">文档名称</span><br/>
+        </th>
+      <th style="text-align: center;vertical-align: top;width: 61pt;border: 1px solid #000000;"><span style="font-weight: bold;font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">版本</span><br/>
+        </th>
+    </tr>
+    <tr>
+      <td style="text-align: center;vertical-align: top;width: 21pt;border: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">1</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 120pt;border: 1px solid #000000;">PMF-RND015-002<br/>
+        </td>
+      <td style="vertical-align: top;width: 213pt;border: 1px solid #000000;">市场需求规范<br/>
+        </td>
+      <td style="text-align: center;vertical-align: top;width: 61pt;border: 1px solid #000000;">A<br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;vertical-align: top;width: 21pt;border: 1px solid #000000;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">2</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 120pt;border: 1px solid #000000;">PMF-RND015-009<br/>
+        </td>
+      <td style="vertical-align: top;width: 213pt;border: 1px solid #000000;">标准与法规符合列表<br/>
+        </td>
+      <td style="text-align: center;vertical-align: top;width: 61pt;border: 1px solid #000000;">B<br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;vertical-align: top;width: 21pt;border: 1px solid #000000;">3</td>
+      <td style="vertical-align: top;width: 120pt;border: 1px solid #000000;">PMF-RND015-001</td>
+      <td style="vertical-align: top;width: 213pt;border: 1px solid #000000;">NOVA牙科X射线机风险分析报告</td>
+      <td style="text-align: center;vertical-align: top;width: 61pt;border: 1px solid #000000;">最新版</td>
+    </tr>
+  </tbody>
+</table><p id="polarion_15">
+  <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">  </span>
+</p><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1223"></h3><table id="polarion_16" style="width: 412pt;margin-left: 0px;margin-right: auto;empty-cells: show;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td style="background-color: #D9D9D9;vertical-align: top;width: 135pt;height: 24pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-weight: bold;font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">缩写Abbreviation</span><br/>
+        </td>
+      <td style="background-color: #D9D9D9;vertical-align: top;width: 277pt;height: 24pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-weight: bold;font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">定义Definition</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 135pt;height: 24pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: top;width: 277pt;height: 24pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 135pt;height: 24pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+      <td style="vertical-align: top;width: 277pt;height: 24pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+  </tbody>
+</table><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1224"></h3><table id="polarion_17" style="margin-left: 0px;margin-right: auto;empty-cells: show;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <th style="text-align: left;vertical-align: top;width: 78pt;height: 18pt;border: 1px solid #000000;"><span style="font-weight: bold;font-size: 11pt;line-height: 1.5;">需求优先级</span><br/>
+        <span style="font-weight: bold;font-size: 11pt;line-height: 1.5;">Priority</span><br/>
+        </th>
+      <th style="text-align: left;vertical-align: top;width: 241pt;height: 18pt;border: 1px solid #000000;"><span style="font-weight: bold;font-size: 11pt;line-height: 1.5;">定义</span><br/>
+        <span style="font-weight: bold;font-size: 11pt;line-height: 1.5;">Definition</span><br/>
+        </th>
+      <th style="text-align: left;vertical-align: top;width: 96pt;height: 18pt;border: 1px solid #000000;"><span style="font-weight: bold;font-size: 11pt;line-height: 1.5;">备注</span><br/>
+        <span style="font-weight: bold;font-size: 11pt;line-height: 1.5;">Comments</span><br/>
+        </th>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 78pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">高High</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 241pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">产品必须满足的需求和实现的功能（包含法规的要求）；</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">Must to have, it is the mandatory requirement;</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 96pt;border: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 78pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">中Medium</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 241pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">产品需要满足的需求，需要实现，但优先级没那么高；</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">Prefered to have, it is very important requirement;</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 96pt;border: 1px solid #000000;"><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 78pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">低 Low</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 241pt;border: 1px solid #000000;"><span style="font-family: Arial, Helvetica, sans-serif;">产品尽可能实现的需求，可以实现，也可以不实现；</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">Nice to have, it is a ok requirement;</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 96pt;border: 1px solid #000000;"><span style="font-size: 10pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">在合理的理由下，可以不被实现。</span><br/>
+        </td>
+    </tr>
+  </tbody>
+</table><p id="polarion_18">
+  <br/>
+  <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">每条需求至少包含如下信息：</span>
+</p><ul id="polarion_20">
+  <li><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">需求编号 ID：需求的唯一识别号。</span></li>
+  <li><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">需求描述 Description ：清晰的描述需求，可以使用文字，表格，图形等方式。</span></li>
+  <li><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">需求优先级 Requirement Priority：定义了需求的优先级。如上表所示。</span></li>
+</ul><h2 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1225"></h2><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1226"></h3><p id="polarion_26">
+  <span style="font-size: 11pt;line-height: 1.5;">开发一款低成本的，易安装，易使用的高性价比牙科X射线机，品牌使用Soredex，其主要目标客户为个人诊所。为了适应不同的客户需求，Nova提供用户两种选择：铅房内使用和椅旁使用。铅房内使用场景，和过往传统产品一样；椅旁，属于新型应用，它有一些特殊的需求，比如手持方便，重量要求，辐射防护等。</span>
+</p><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1227"></h3><p id="polarion_27"></p><p id="polarion_87">
+  <span style="font-size: 11pt;line-height: 1.5;">通过产生牙列、下颌和其他口腔结构的X光片，用做医疗机构诊断用。</span>
+</p><p id="polarion_75"></p><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1228"></h3><p id="polarion_28">
+  <span style="font-size: 11pt;line-height: 1.5;">定义提供给用户的产品，包括附件和选配需求。如提供不同的品牌或不同的预期用途，单独列出。</span>
+</p><p id="polarion_24" style="text-align: left;"></p><table id="polarion_wiki macro name=table;params=header=no|uid=20" class="polarion-Document-table" style="width: 80%;margin-left: auto;margin-right: auto;border: 1px solid #CCCCCC;empty-cells: show;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td style="text-align: left;vertical-align: top;width: 140px;height: 16pt;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"><span style="font-weight: bold;">类别</span><br/>
+          </span></td>
+      <td style="text-align: left;vertical-align: top;width: 188px;height: 16pt;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"><span style="font-weight: bold;">配置1（固定式）</span><br/>
+          </span></td>
+      <td style="text-align: left;vertical-align: top;width: 242px;height: 16pt;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-weight: bold;font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">配置2（手持式）</span></td>
+    </tr>
+    <tr>
+      <td rowspan="5" style="text-align: left;vertical-align: top;width: 140px;height: 89px;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">标配 Std. Config<br/>
+          </span></td>
+      <td style="text-align: left;vertical-align: top;width: 188px;height: auto;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">主机 <br/>
+          </span></td>
+      <td style="text-align: left;vertical-align: top;width: 242px;height: auto;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">主机</span></td>
+    </tr>
+    <tr>
+      <td style="text-align: left;vertical-align: top;width: 188px;height: auto;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">平衡臂<br/>
+          </span></td>
+      <td style="text-align: left;vertical-align: top;width: 242px;height: auto;border: 1px solid #CCCCCC;padding: 5px;"></td>
+    </tr>
+    <tr>
+      <td style="text-align: left;vertical-align: top;width: 188px;height: 23px;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">立柱</span></td>
+      <td style="text-align: left;vertical-align: top;width: 242px;height: 23px;border: 1px solid #CCCCCC;padding: 5px;"></td>
+    </tr>
+    <tr>
+      <td style="text-align: left;vertical-align: top;width: 188px;height: 23px;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">座凳</span></td>
+      <td style="text-align: left;vertical-align: top;width: 242px;height: 23px;border: 1px solid #CCCCCC;padding: 5px;"></td>
+    </tr>
+    <tr>
+      <td style="text-align: left;vertical-align: top;width: 188px;height: 23px;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">底板<br/>
+          </span></td>
+      <td style="text-align: left;vertical-align: top;width: 242px;height: 23px;border: 1px solid #CCCCCC;padding: 5px;"></td>
+    </tr>
+    <tr>
+      <td rowspan="4" style="text-align: left;vertical-align: top;width: 140px;height: auto;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">附件Accessory：<br/>
+          </span></td>
+      <td style="text-align: left;vertical-align: top;width: 188px;height: auto;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">充电器<br/>
+          </span></td>
+      <td style="text-align: left;vertical-align: top;width: 242px;height: auto;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">充电器</span></td>
+    </tr>
+    <tr>
+      <td style="text-align: left;vertical-align: top;width: 188px;height: auto;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">曝光手闸</span></td>
+      <td style="text-align: left;vertical-align: top;width: 242px;height: auto;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">屏蔽环</span></td>
+    </tr>
+    <tr>
+      <td style="text-align: left;vertical-align: top;width: 188px;height: auto;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-style: normal;font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">用户说明书</span></td>
+      <td style="text-align: left;vertical-align: top;width: 242px;height: auto;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">用户说明书</span></td>
+    </tr>
+    <tr>
+      <td style="text-align: left;vertical-align: top;width: 188px;height: auto;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"><span style="font-style: normal;">应用指南</span><br/>
+          </span></td>
+      <td style="text-align: left;vertical-align: top;width: 242px;height: auto;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">应用指南</span></td>
+    </tr>
+    <tr>
+      <td style="text-align: left;vertical-align: top;width: 140px;height: auto;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">选配 Option：<br/>
+          </span></td>
+      <td style="text-align: left;vertical-align: top;width: 188px;height: auto;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">屏蔽环<br/>
+          </span></td>
+      <td style="text-align: left;vertical-align: top;width: 242px;height: auto;border: 1px solid #CCCCCC;padding: 5px;"></td>
+    </tr>
+  </tbody>
+</table><p id="polarion_21"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-689"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-604"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-606"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-608"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-609"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-610"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-607"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-619"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-715"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-737"></div><h2 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1229"></h2><p id="polarion_30">
+  <span style="background-color: #FFFF00;">此处创建一条需求，引用《XXXX标准和法规符合性清单》，由研发法规工程师根据该清单起草法规需求，包含安全，产品标准，标签，包装相关，使用说明书，生物相容性，清洁和消毒，RoHS等法规相关的信息。</span>
+</p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-693"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-695"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-698"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-699"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1253"></div><h2 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1230"></h2><p id="polarion_31">
+  <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;background-color: #FFFF00;line-height: 1.5;">此处创建风险控制措施需求，明确详见《XXXX产品风险分析》中的控制措施。这些控制措施引入到设计输入，设计验证时也需要验证这些控制措施已实施且有效。</span>
+</p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1256"></div><h2 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1231"></h2><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1232"></h3><p id="polarion_34"></p><p id="polarion_32">
+  <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">根据功能划分为基本功能和子模块功能。</span>
+</p><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1233"></h3><p id="polarion_56"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-687"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-688"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-712"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-713"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-726"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-727"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1234"></h3><p id="polarion_19"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-601"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-603"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-617"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-674"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-716"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-731"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1250"></h3><p id="polarion_22"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-618"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-714"></div><p id="polarion_62"></p><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1235"></h3><p id="polarion_23"></p><p id="polarion_38">
+  <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">本产品无此要求。</span>
+</p><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1236"></h3><p id="polarion_25"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-722"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-724"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-744"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-725"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-728"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-730"></div><h2 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1237"></h2><p id="polarion_29"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-614"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-675"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-700"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-701"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-702"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-706"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-707"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-708"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-709"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-710"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-909"></div><h2 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1238"></h2><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1239"></h3><p id="polarion_41"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-613"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1240"></h3><p id="polarion_33"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-705"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1241"></h3><p id="polarion_35"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-680"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-703"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-704"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1254"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1242"></h3><p id="polarion_44"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-677"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-678"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1243"></h3><p id="polarion_45">
+  <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">无此要求。</span>
+</p><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1244"></h3><p id="polarion_46"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-692"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1252"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1245"></h3><p id="polarion_47"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-605"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-683"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-684"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-685"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-686"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-729"></div><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1246"></h3><p id="polarion_48"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-681"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-682"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-694"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-732"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-1251"></div><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-719"></div><h2 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1247"></h2><h3 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1248"></h3><p id="polarion_49"></p><div id="polarion_wiki macro name=module-workitem;params=id=NOVA-738"></div><h2 id="polarion_wiki macro name=module-workitem;params=id=NOVA-1249"></h2><table id="polarion_51" style="margin-left: 0px;margin-right: auto;empty-cells: show;border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <th style="text-align: left;vertical-align: top;width: 71pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;line-height: 1.5;">附录一</span><br/>
+        </th>
+      <th style="text-align: left;vertical-align: top;width: 344pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;line-height: 1.5;">产品需求和市场需求的追溯性</span><br/>
+        </th>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;width: 71pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;line-height: 1.5;">附录二</span><br/>
+        </td>
+      <td style="vertical-align: top;width: 344pt;border: 1px solid #000000;border-top: 1px solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;border-left: 1px solid #000000;"><span style="font-size: 11pt;line-height: 1.5;">市场需求覆盖度Market Requirement Coverage(with/without PRS)</span><br/>
+        </td>
+    </tr>
+  </tbody>
+</table><p id="polarion_52">
+  <br/>
+</p>]]></field>
+    <field id="outlineNumbering">
+        <struct>
+            <item id="prefix">PRS</item>
+        </struct>
+    </field>
+    <field id="renderingLayouts">
+        <list>
+            <struct>
+                <item id="label">System Requirement</item>
+                <item id="layouter">section</item>
+                <item id="properties">
+                    <list>
+                        <struct>
+                            <item id="key">fieldsAtStart</item>
+                            <item id="value">id</item>
+                        </struct>
+                        <struct>
+                            <item id="key">fieldsAtEnd</item>
+                            <item id="value">status,priority</item>
+                        </struct>
+                        <struct>
+                            <item id="key">fieldsAtEndAsTable</item>
+                            <item id="value">true</item>
+                        </struct>
+                        <struct>
+                            <item id="key">hidden</item>
+                        </struct>
+                        <struct>
+                            <item id="key">noPageBreak</item>
+                        </struct>
+                        <struct>
+                            <item id="key">sidebarWorkItemFields</item>
+                            <item id="value">status,priority,id</item>
+                        </struct>
+                        <struct>
+                            <item id="key">typeNotInProject</item>
+                        </struct>
+                    </list>
+                </item>
+                <item id="type">systemRequirement</item>
+            </struct>
+        </list>
+    </field>
+    <field id="status">published</field>
+    <field id="structureLinkRole">parent</field>
+    <field id="title">QSP-0031L 产品要求规范PRS Rev.C</field>
+    <field id="type">reqspecification</field>
+    <field id="usesOutlineNumbering">true</field>
+    <field id="version" type="string">C</field>
+</module>

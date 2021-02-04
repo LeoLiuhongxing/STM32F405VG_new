@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="author">Hualin.Peng</field>
+    <field id="created">2020-04-10 08:43:18.361 +0800</field>
+    <field id="previousStatus">open</field>
+    <field id="priority">90.0</field>
+    <field id="severity">major</field>
+    <field id="status">open</field>
+    <field id="title">Test Purpose&amp;Scope测试目的&amp;范围</field>
+    <field id="type">heading</field>
+</work-item>

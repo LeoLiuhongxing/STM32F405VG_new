@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hualin.Peng</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Leo.Liu</field>
+    <field id="created">2019-12-18 10:57:48.470 +0800</field>
+    <field id="description" text-type="text/html"><![CDATA[Logo指示灯亮，系统状态灯熄灭，其它指示灯和液晶正常显示，液晶上并有“演示模式”字样，如下图所示：<img title="微信图片_20200408102328.png" src="workitemimg:3-%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200408102328.png" style="max-width: 750px;" data-lastmodified="2020-04-13T11:10:47.845+08:00"/><br/>
+在就绪状态下，长按数字/模拟按键3秒，蜂鸣器响一次，系统进入演示模式；<br/>
+演示模式下，所有的曝光回路都被切断，禁止曝光；<br/>
+长按数字/模拟按键3S，蜂鸣器响一次，系统退出演示模式。]]></field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-724</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="type">softwareRequirement</field>
+</work-item>

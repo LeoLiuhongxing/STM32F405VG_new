@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hualin.Peng</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Leo.Liu</field>
+    <field id="created">2019-12-18 10:39:35.742 +0800</field>
+    <field id="description" text-type="text/html"><![CDATA[电源指示灯常亮，系统状态灯亮蓝色，液晶屏幕显示错误代码。<br/>
+如果提前释放曝光按钮或手闸，系统黄色状态灯和蜂鸣器都会停止，并报错。<br/>
+若系统检测到故障，系统状态灯蓝色亮起，液晶屏幕提示错误代码，并显示“ 请关机清除错误，如果连续出现，请联系客服人员！”<br/>
+错误类型：
+<ul>
+  <li>系统故障：管电流失效、机头过热、存储器失效（EEPROM）、电池不能充电故障。</li>
+  <li>用户错误：过早释放曝光按钮或者手闸；<span style="color: #FF0000;">频繁操作（软件限制：1：60，例如：曝光1秒，60秒之后，系统进入就绪状态）</span></li>
+</ul>]]></field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-607</item>
+            </struct>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-619</item>
+            </struct>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-744</item>
+            </struct>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-724</item>
+            </struct>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-719</item>
+            </struct>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-682</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="type">softwareRequirement</field>
+</work-item>

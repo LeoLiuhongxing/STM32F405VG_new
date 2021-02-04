@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+            <struct>
+                <item id="status">waiting</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Hualin.Peng</field>
+    <field id="classificationForAll" type="enum:classificationForAll">system</field>
+    <field id="created">2019-12-04 17:00:36.673 +0800</field>
+    <field id="description" text-type="text/html">主机正常工作</field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">33.0</field>
+    <field id="severity">basic</field>
+    <field id="status">inReview</field>
+    <field id="testSteps" type="struct:TestSteps">
+        <struct>
+            <item id="keys">
+                <list>
+                    <item>description</item>
+                    <item>expectedResult</item>
+                </list>
+            </item>
+            <item id="steps">
+                <list>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">开机等待系统进入可曝光状态</item>
+                                <item text-type="text/html"><![CDATA[主机正常开机且无任何错误显示<br/>
+               主机的指示灯显示绿色]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按一下曝光手札</item>
+                                <item text-type="text/html"><![CDATA[系统开始曝光<br/>
+               状态灯显示黄色<br/>
+               蜂鸣器响起]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">曝光结束后，检查主机状态</item>
+                                <item text-type="text/html"><![CDATA[蜂鸣器关闭<br/>
+               状态灯的黄灯熄灭，绿灯亮起<br/>
+               系统进入下一个曝光就绪状态]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">当电池近于14.8V时，检查曝光状态</item>
+                                <item text-type="text/html">主机仅支持一次短时间曝光</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">设置曝光时间2秒并按下曝光键</item>
+                                <item text-type="text/html">主机能正常完成整个曝光要求</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">检查主机的显示状态</item>
+                                <item text-type="text/html"><![CDATA[主机显示禁止曝光电量显示0格，并且界面显示内容如下：<br/>
+        “电池电量过低，无法曝光，请充电后使用！”]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">设置电池电量只够一次0.5秒的曝光并开机</item>
+                                <item text-type="text/html">主机正常开启</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">设置时间2秒并曝光</item>
+                                <item text-type="text/html">主机正常曝光</item>
+                            </list>
+                        </item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="testType" type="enum:testtype">manual</field>
+    <field id="title">前提条件：</field>
+    <field id="type">testcase</field>
+</work-item>

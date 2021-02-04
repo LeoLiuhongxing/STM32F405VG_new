@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<comment>
+    <field id="author">admin</field>
+    <field id="created">2020-04-14 16:47:15.405 +0800</field>
+    <field id="tags">
+        <list>
+            <item>approvals</item>
+        </list>
+    </field>
+    <field id="text" text-type="text/plain">已线下评审并发布，本次为系统执行</field>
+    <field id="title">Approval comment</field>
+</comment>

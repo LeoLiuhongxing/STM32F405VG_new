@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+            <struct>
+                <item id="status">waiting</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Hualin.Peng</field>
+    <field id="classificationForAll" type="enum:classificationForAll">system</field>
+    <field id="created">2019-12-05 11:15:01.974 +0800</field>
+    <field id="description" text-type="text/html">主机正常工作</field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">33.0</field>
+    <field id="severity">basic</field>
+    <field id="status">inReview</field>
+    <field id="testSteps" type="struct:TestSteps">
+        <struct>
+            <item id="keys">
+                <list>
+                    <item>description</item>
+                    <item>expectedResult</item>
+                </list>
+            </item>
+            <item id="steps">
+                <list>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">长按成人/儿童按键并保持3秒</item>
+                                <item text-type="text/html"><![CDATA[蜂鸣声响一次<br/>
+        系统进入设置界面]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">检查设置界面的显示</item>
+                                <item text-type="text/html"><![CDATA[设置界面显示如下：<br/>
+        1. 系统显示<br/>
+        2.事件记录<br/>
+        3.参数设定<br/>
+        4.系统重置]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按一下曝光键</item>
+                                <item text-type="text/html"><![CDATA[系统状态灯处于熄灭状态<br/>
+        系统禁止曝光且无射线产生]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按曝光时间调节按键</item>
+                                <item text-type="text/html">系统显示、事件记录、参数设定、系统重置能被自由任意的选中且无任何错误显示</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">选择系统显示</item>
+                                <item text-type="text/html">系统显示被选中</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按一下成人/儿童按键</item>
+                                <item text-type="text/html"><![CDATA[界面进入系统显示子界面：<br/>
+        1.曝光次数<br/>
+        2.DAP累积]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按一下&lt;span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;"&gt;成人/儿童按键&lt;/span&gt;</item>
+                                <item text-type="text/html">系统退回到设置界面</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">选中事件记录并按一下成人/儿童按键</item>
+                                <item text-type="text/html">界面进入事件记录子界面：如开机、关机、曝光时间、报错等等事件</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">按一下成人/儿童按键</item>
+                                <item text-type="text/html">界面回退到设置界面</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">选中参数设定并按下&lt;span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;"&gt;成人/儿童按键&lt;/span&gt;</item>
+                                <item text-type="text/html"><![CDATA[界面进入参数设定子界面：<br/>
+        1.休眠时间<br/>
+        2.DAP系数 1.00<br/>
+        3.数字模式选择：牙片宝、传感器]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">选中休眠时间且按曝光时间调节按键</item>
+                                <item text-type="text/html">休眠模式可随意的被调节。最小值：10秒、最大值：180秒、步长：5秒</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">选中数字模式选择并按曝光时间调节按键</item>
+                                <item text-type="text/html">牙片宝、传感器两种模式可随意选择</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">&lt;span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;"&gt;按一下成人/儿童按键&lt;/span&gt;</item>
+                                <item text-type="text/html">&lt;span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;"&gt;界面回退到设置界面&lt;/span&gt;</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">&lt;span style="font-weight: normal;font-style: normal;text-decoration: none;font-size: 10pt;font-family: Arial, Helvetica, sans-serif;color: #000000;line-height: 1.5;"&gt;选中系统重置并按下成人/儿童按键&lt;/span&gt;</item>
+                                <item text-type="text/html"><![CDATA[界面进入系统重置的子界面：如下<br/>
+        系统重置<br/>
+        是<br/>
+        否]]></item>
+                            </list>
+                        </item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="testType" type="enum:testtype">manual</field>
+    <field id="title">前提条件：</field>
+    <field id="type">testcase</field>
+</work-item>

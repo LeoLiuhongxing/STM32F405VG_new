@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+        </list>
+    </field>
+    <field id="assignee">Bruce.Niu</field>
+    <field id="author">admin</field>
+    <field id="created">2018-10-23 13:09:08.639 +0800</field>
+    <field id="description" text-type="text/html">&lt;p&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;System is intended to be used only by dentist and other qualified dental professionals to &lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;take&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt; x-ray images&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;,&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt; exposed to the imaging plates&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt; of PSP, films and digital sensors&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt; from the intraoral complex of the skull.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;系统&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;的预期用途：医生或其他有资质的口腔专业人员拍摄&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;X&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;片，&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;X&lt;/span&gt;&lt;span style="font-family: Arial, Helvetica, sans-serif;font-size: 9pt;"&gt;射线成像在牙片宝的影像板、胶片和数字传感器上，他们用以显示头颅的口内结构&lt;/span&gt;&lt;/p&gt;</field>
+    <field id="level" type="enum:priority">33.0</field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="title">MRS 3-6</field>
+    <field id="type">marketRequirement</field>
+</work-item>

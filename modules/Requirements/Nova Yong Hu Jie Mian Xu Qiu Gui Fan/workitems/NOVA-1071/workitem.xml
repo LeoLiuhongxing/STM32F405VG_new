@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hualin.Peng</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">admin</field>
+    <field id="created">2019-12-17 16:32:21.253 +0800</field>
+    <field id="description" text-type="text/html"><![CDATA[<img src="attachment:1-screenshot-20191203-134758.png"/><br/>
+① 电源开/关按键<br/>
+② 系统状态指示灯<br/>
+③ 成人/儿童按键<br/>
+④ 数字/模拟按键<br/>
+⑤ 牙位选择按键<br/>
+⑥ 曝光时间调节按键<br/>
+⑦ 该区域为液晶显示区域<br/>
+<img src="attachment:2-screenshot-20191203-135643.png"/>]]></field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-725</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="type">softwareRequirement</field>
+</work-item>

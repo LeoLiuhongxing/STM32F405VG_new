@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hualin.Peng</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Leo.Liu</field>
+    <field id="created">2019-12-18 10:58:20.146 +0800</field>
+    <field id="description" text-type="text/html"><![CDATA[7.9.1) 按下成人/儿童按键并保持3秒，蜂鸣器响一次，系统进入设置页面。系统设置界面如下：<br/>
+ <img src="attachment:11-screenshot-20191203-144111.png"/><br/>
+7.9.2) 系统设置状态下，系统状态灯熄灭，曝光也被禁止。<br/>
+7.9.3) 进入设置页面后，通过曝光时间调节按键选择项目，通过短按成人/儿童按键进入或退出某一设置界面。<br/>
+7.9.4) 在设置页面下，长按成人/儿童按键3秒，蜂鸣器响一次，退出设置模式，回到准备状态。<br/>
+7.9.5)设置菜单 
+<ul>
+  <li><span style="font-size: 14pt;line-height: 1.5;"> </span>一级菜单</li>
+</ul>
+ <img src="attachment:12-screenshot-20191203-144411.png"/> 
+<ul>
+  <li>系统显示</li>
+  <li>MaXray显示均为黑底绿字，不显示DAP累积</li>
+  <li><img title="系统显示页面.jpg" src="workitemimg:1-%E7%B3%BB%E7%BB%9F%E6%98%BE%E7%A4%BA%E9%A1%B5%E9%9D%A2.jpg" style="width: 194px;height: 145px;" data-lastmodified="2020-04-13T11:23:28.263+08:00"/></li>
+  <li>Nova-T 显示均为黑底绿字</li>
+  <li>MaXray 系统显示页面均为黑底绿字，不显示DAP累积：</li>
+</ul>
+ <img src="attachment:13-screenshot-20191203-144411.png"/>]]></field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-607</item>
+            </struct>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-727</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="type">softwareRequirement</field>
+</work-item>

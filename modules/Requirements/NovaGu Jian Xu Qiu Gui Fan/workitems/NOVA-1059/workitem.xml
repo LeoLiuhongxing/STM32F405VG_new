@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Bruce.Niu</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Junjie.Yuan</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Yonglin.Chen</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">admin</field>
+    <field id="created">2019-12-17 15:47:26.820 +0800</field>
+    <field id="description" text-type="text/html"><![CDATA[<table style="border: none;">
+  <tbody>
+    <tr>
+      <td colspan="2" style="width: 460.6pt;height: 16.85pt;border: 1pt solid windowtext;border-top: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">[FWR 000007]</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="width: 118.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">需求优先级</span><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"> / Priority</span><br/>
+        </td>
+      <td style="width: 341.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> <span style="font-size: 8pt;line-height: 1.5;"> 高</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td style="width: 118.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;">来源 / Source field <br/>
+        </td>
+      <td style="width: 341.8pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: none;padding: 0cm 5.4pt;"> <span style="font-family: Arial, Helvetica, sans-serif;"> Nova-728 系统应提供曝光时间的调节。</span><br/>
+        </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="width: 460.6pt;border-top: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;padding: 0cm 5.4pt;"> <span style="font-size: 11pt;line-height: 1.5;">需求描述</span><span style="font-size: 11pt;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"> / Description:</span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">                                                                     </span><br/>
+        <span style="font-family: Arial, Helvetica, sans-serif;">       1. 软件能够通过按键调节曝光时间，曝光时间调节范围：大于等于0.1秒，小于等于2秒 <br/>
+                  2.<span style="font-size: 12pt;line-height: 1.5;">Nova-T的曝光取值为符合R’20标准0.1~2.00s，取值列表如下：<br/>
+                      0.100,0.110,0.125,0.140,0.160,0.180,0.200,0.220,0.250,0.280,0.320,0.360,0.400,<br/>
+                     0.450,0.500,0.560,0.630,0.710,0.800，0.900,1.000,1.100,1.25，1.40，1.60，                    1.80，2.00<br/>
+            3.MaXray的曝光取值符合R’10的0.1~2.00s，取值列表如下：<br/>
+            0.100,0.125,0.160,0.200,0.220,0.250,0.320,0.400,0.500,0.630,0.800，1.000,1.250，1.600，2.00</span><br/>
+                  </span><br/>
+        </td>
+    </tr>
+  </tbody>
+</table>]]></field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-728</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="type">softwareRequirement</field>
+</work-item>

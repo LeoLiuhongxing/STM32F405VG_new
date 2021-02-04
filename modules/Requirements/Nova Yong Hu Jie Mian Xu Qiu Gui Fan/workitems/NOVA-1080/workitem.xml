@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hanjiang.Ye</item>
+            </struct>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">Hualin.Peng</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">Leo.Liu</field>
+    <field id="created">2019-12-18 10:19:10.543 +0800</field>
+    <field id="description" text-type="text/html"><![CDATA[在就绪状态下，可设置曝光参数
+<ul>
+  <li>成人模式下，成人图标高亮，此时短按按键一次，切换成儿童模式，成人图标变暗，儿童图标灯高亮。反之亦然。如下图：</li>
+</ul>
+<img src="attachment:7-screenshot-20191203-142613.png"/>
+<ul>
+  <li>数字模式下，液晶里数字式图标高亮，此时短按按键一次，切换成模拟模式，数字式图标变暗，胶片图标高亮。反之亦然。如下图：</li>
+</ul>
+<img src="attachment:8-screenshot-20191203-142613.png"/>
+<ul>
+  <li>任意一个牙位选择按键按下，即切换至该按键代表的模式，此时该按键的图标点亮，该区域其他按键图标灯灭。该区域的按键图标，同一时刻只能亮一个图标。如下图：</li>
+</ul>
+<img src="attachment:9-screenshot-20191203-142613.png"/><br/>
+<ul>
+  <li>设备参数应与该图标代表的模式相符。</li>
+</ul>]]></field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-712</item>
+            </struct>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-713</item>
+            </struct>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-744</item>
+            </struct>
+            <struct>
+                <item id="role">derived_from</item>
+                <item id="workItem">NOVA-724</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">inReview</field>
+    <field id="priority">90.0</field>
+    <field id="severity">normal</field>
+    <field id="status">approved</field>
+    <field id="type">softwareRequirement</field>
+</work-item>

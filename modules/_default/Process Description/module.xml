@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module>
+    <field id="author">admin</field>
+    <field id="created">2013-01-10 05:59:54.928 +0800</field>
+    <field id="homePageContent" text-type="text/html"><![CDATA[<p id="polarion_merged_1">
+  <img src="attachment:diagram_20130124-1655.39751.png"/>
+</p>
+<p id="polarion_merged_2">
+  <img src="attachment:diagram_20130124-1710.31728.png"/>
+</p>
+<p id="polarion_merged_3">
+  <img src="attachment:diagram_20130124-1718.48611.png"/>
+</p>
+<p id="polarion_2"></p>
+]]></field>
+    <field id="renderingLayouts">
+        <list>
+            <struct>
+                <item id="label">Task</item>
+                <item id="layouter">section</item>
+                <item id="properties">
+                    <list>
+                        <struct>
+                            <item id="key">fieldsAtStart</item>
+                            <item id="value">id</item>
+                        </struct>
+                        <struct>
+                            <item id="key">fieldsAtEnd</item>
+                        </struct>
+                        <struct>
+                            <item id="key">fieldsAtEndAsTable</item>
+                        </struct>
+                        <struct>
+                            <item id="key">hidden</item>
+                        </struct>
+                    </list>
+                </item>
+                <item id="type">task</item>
+            </struct>
+        </list>
+    </field>
+    <field id="status">published</field>
+    <field id="structureLinkRole">parent</field>
+    <field id="type">generic</field>
+    <field id="usesOutlineNumbering">true</field>
+</module>
